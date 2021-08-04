@@ -9,7 +9,7 @@ Full stack developer and open-source lover
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/debba)
 [![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)](https://dev.to/debba)
 
-<img align='left' src="https://raw.githubusercontent.com/debba/debba/main/assets/me.png" height="150px" width="150px">
+<img align='left' src="https://raw.githubusercontent.com/debba/debba/main/assets/me.png" height="250px" width="250px">
 
 ```js
 document.write("Hello World");
