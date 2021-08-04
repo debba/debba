@@ -2,10 +2,12 @@
 
 Full stack developer and open-source lover.
 
+<div style="background-color:#fff;color:#000">
 
 [![](https://raw.githubusercontent.com/debba/debba/main/assets/dueclic.png)](https://www.dueclic.com) Founder and developer
 
 [![](https://raw.githubusercontent.com/debba/debba/main/assets/emailchef.png)](https://www.emailchef.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/turbosmtp.png)](https://www.serversmtp.com) Software developer in email marketing services
+</div>
 
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://facebook.com/debba20)
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/debba_92)
