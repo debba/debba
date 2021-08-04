@@ -19,8 +19,8 @@
 
 ```js
 document.write("Hello World");
-const dev = new Developer('Andrea Debernardi');
-const Andrea = {
+const Andrea = new Developer('Andrea Debernardi');
+Andrea.setInfo({
     pronouns: "he" | "his",
     status: 'Full stack developer',
     os: 'Ubuntu',
@@ -34,7 +34,7 @@ const Andrea = {
     editors: ['Jetbrains IntelliJ', 'Vim'],
     learning: ['Go', 'GraphQL'],
     contact: 'andrea@debbaweb.it'
-};
+});
 ```
 
 ----
