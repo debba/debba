@@ -2,7 +2,7 @@
 
 Full stack developer and open-source lover.
 
-<div style="background-color:#fff;color:#000">
+<div style="background:#fff;color:#000;padding:10px;">
 
 [![](https://raw.githubusercontent.com/debba/debba/main/assets/dueclic.png)](https://www.dueclic.com) Founder and developer
 
