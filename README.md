@@ -10,7 +10,7 @@
 
 ### About me
 
-- *Founder and developer* @ dueclic  [![](https://raw.githubusercontent.com/debba/debba/main/assets/dueclic.png)](https://www.dueclic.com)
+- *Founder and developer* [@dueclic](https://github.com/dueclic)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/dueclic.png)](https://www.dueclic.com)
 - *Software developer in email marketing services* @ eMailChef and turboSMTP [![](https://raw.githubusercontent.com/debba/debba/main/assets/emailchef.png)](https://www.emailchef.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/turbosmtp.png)](https://www.serversmtp.com)
 - *Open source side projects and CMS integrations*
 
