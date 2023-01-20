@@ -34,7 +34,8 @@ Andrea.setInfo({
     },
     editors: ['Jetbrains IntelliJ', 'Vim'],
     learning: ['Go', 'GraphQL'],
-    contact: 'andrea@debbaweb.it'
+    contact: 'andrea@debbaweb.it',
+    website: 'https://www.debbaweb.it'
 });
 ```
 
