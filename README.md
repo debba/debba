@@ -28,7 +28,7 @@ Andrea.setInfo({
     technologies: {
         frontEnd: ['HTML', 'CSS', 'SASS', 'Javascript', 'Webpack', 'Gulp'],
         backEnd: ['Node.js', 'PHP', 'Python'],
-        framework: ['Fastify', 'Slim', 'Angular'],
+        framework: ['Fastify', 'Slim', 'Laravel', 'Angular'],
         cms: ['WordPress', 'WooCommerce', 'PrestaShop', 'Magento', 'Shopify'],
         libraries: ['Bootstrap', 'React']
     },
