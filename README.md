@@ -42,3 +42,5 @@ Andrea.setInfo({
 ```zsh
 >  Explore my repos 🚀
 ```
+
+[![@debba 2024 - sample](https://raw.githubusercontent.com/debba/gh-contributions-tetris-gif-maker/main/sample/tetris_debba_2024.gif)](https://www.github.com/debba)
