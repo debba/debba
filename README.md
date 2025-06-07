@@ -22,7 +22,7 @@ const Andrea = new Developer('Andrea Debernardi');
 Andrea.setInfo({
     pronouns: "he" | "his",
     status: 'Full stack developer',
-    os: 'Ubuntu',
+    os: 'Arch Linux',
     technologies: {
         frontEnd: ['HTML', 'CSS', 'SASS', 'Javascript', 'Webpack', 'Gulp'],
         backEnd: ['Node.js', 'PHP', 'Python'],
