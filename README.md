@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/debba)
 [![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)](https://dev.to/debba)
 [![](https://img.shields.io/badge/-WordPress-informational?style=for-the-badge&logo=devto&logoColor=white&color=21759b)](https://profiles.wordpress.org/dueclic)
-[![](https://img.shields.io/badge/-Discord-informational?style=for-the-badge&logo=devto&logoColor=white&color=7289da)](https://discord.gg/WgsVw69F)
+[![](https://img.shields.io/badge/-Discord-informational?style=for-the-badge&logo=devto&logoColor=white&color=7289da)](https://discord.gg/YrZPHAwMSG)
 
 ### About me
 
