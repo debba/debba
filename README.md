@@ -1,10 +1,11 @@
 # 👨‍💻️😎 **Andrea Debernardi (debba)**
 
-[![](https://img.shields.io/badge/-X-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://x.com/debba_92)
+[![](https://img.shields.io/badge/-X-informational?style=for-the-badge&logo=twitter&logoColor=white&color=000000)](https://x.com/debba_92)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/andrea-debernardi)
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/debba)
 [![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)](https://dev.to/debba)
 [![](https://img.shields.io/badge/-WordPress-informational?style=for-the-badge&logo=devto&logoColor=white&color=21759b)](https://profiles.wordpress.org/dueclic)
+[![](https://img.shields.io/badge/-Discord-informational?style=for-the-badge&logo=devto&logoColor=white&color=7289da)](https://discord.gg/WgsVw69F)
 
 ### About me
 
