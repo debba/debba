@@ -1,85 +1,84 @@
 #!/usr/bin/env python3
-"""Fetch blog posts from tabularis.dev sitemap and update README.md."""
+"""Fetch latest blog posts from tabularis.dev JSON and update README.md."""
 
+import json
 import re
 import urllib.request
-import xml.etree.ElementTree as ET
 from datetime import datetime
 
 
-SITEMAP_URLS = [
-    "https://tabularis.dev/sitemap.xml",
-    "https://tabularis.dev/sitemap-0.xml",
-]
-BLOG_PATH_PREFIX = "/blog/"
+LATEST_POSTS_URL = "https://tabularis.dev/latest-posts.json"
 README_PATH = "README.md"
+MAX_POSTS = 5
+IMG_WIDTH = 120
 
 START_MARKER = "<!-- BLOG-POSTS:START -->"
 END_MARKER = "<!-- BLOG-POSTS:END -->"
 
 
-def fetch_sitemap(url):
-    """Fetch and parse a sitemap XML, returning a list of blog post URLs."""
+def fetch_json(url):
+    """Fetch JSON from a URL and return parsed Python object."""
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         content = resp.read()
-    return content
+    return json.loads(content.decode("utf-8"))
 
 
-def extract_blog_urls_from_sitemap(xml_content):
-    """Extract blog URLs from sitemap XML content.
+def parse_date_to_yyyy_mm_dd(value):
+    """Parse various date formats to YYYY-MM-DD; fallback to original string."""
+    if not value:
+        return ""
+    value = str(value).strip()
 
-    Handles both sitemap index files and regular sitemaps.
-    """
-    root = ET.fromstring(xml_content)
-    ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+    # Common ISO-like formats we saw:
+    # 2026-02-26T23:00:00
+    # 2026-02-25T12:57
+    # 2026-02-23
+    for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(value, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            pass
 
-    # Check if this is a sitemap index (contains other sitemaps)
-    sitemap_locs = root.findall(".//s:sitemap/s:loc", ns)
-    if sitemap_locs:
-        blog_urls = []
-        for loc in sitemap_locs:
-            try:
-                child_xml = fetch_sitemap(loc.text)
-                blog_urls.extend(extract_blog_urls_from_sitemap(child_xml))
-            except Exception as e:
-                print(f"Warning: failed to fetch child sitemap {loc.text}: {e}")
-        return blog_urls
+    # If it includes a timezone like "Z" or "+00:00", try a minimal cleanup
+    cleaned = value.replace("Z", "")
+    if "+" in cleaned:
+        cleaned = cleaned.split("+", 1)[0]
+    for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M"):
+        try:
+            return datetime.strptime(cleaned, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            pass
 
-    # Regular sitemap: extract <url><loc> entries
-    urls = []
-    for url_elem in root.findall(".//s:url", ns):
-        loc = url_elem.find("s:loc", ns)
-        if loc is not None and BLOG_PATH_PREFIX in loc.text:
-            lastmod = url_elem.find("s:lastmod", ns)
-            urls.append({
-                "url": loc.text,
-                "lastmod": lastmod.text if lastmod is not None else None,
-            })
-
-    return urls
-
-
-def url_to_title(url):
-    """Convert a blog URL slug to a readable title."""
-    slug = url.rstrip("/").split("/")[-1]
-    title = slug.replace("-", " ").title()
-    return title
+    return value
 
 
 def generate_blog_section(posts):
-    """Generate the markdown section for blog posts."""
+    """Generate the markdown section for blog posts as a table."""
     if not posts:
         return f"{START_MARKER}\n*No blog posts found.*\n{END_MARKER}"
 
-    # Sort by lastmod (newest first) if available, otherwise by URL
-    posts.sort(key=lambda p: p.get("lastmod") or "", reverse=True)
+    posts = posts[:MAX_POSTS]
 
     lines = [START_MARKER]
+    lines.append("| Immagine | Titolo | Data |")
+    lines.append("|---|---|---|")
+
     for post in posts:
-        title = url_to_title(post["url"])
-        url = post["url"]
-        lines.append(f"- [{title}]({url})")
+        title = (post.get("title") or "").strip()
+        url = (post.get("url") or "").strip()
+        image = (post.get("image") or "").strip()
+        date = parse_date_to_yyyy_mm_dd(post.get("date"))
+
+        img_cell = (
+            f'<img src="{image}" alt="{title}" width="{IMG_WIDTH}" />'
+            if image
+            else ""
+        )
+        title_cell = f"[{title}]({url})" if title and url else (title or url)
+
+        lines.append(f"| {img_cell} | {title_cell} | {date} |")
+
     lines.append("")
     lines.append(f"*Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC*")
     lines.append(END_MARKER)
@@ -89,7 +88,7 @@ def generate_blog_section(posts):
 
 def update_readme(blog_section):
     """Update README.md with the blog posts section."""
-    with open(README_PATH, "r") as f:
+    with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
     pattern = re.compile(
@@ -100,31 +99,29 @@ def update_readme(blog_section):
     if pattern.search(content):
         new_content = pattern.sub(blog_section, content)
     else:
-        new_content = content.rstrip("\n") + "\n\n### Latest Blog Posts\n\n" + blog_section + "\n"
+        new_content = (
+            content.rstrip("\n")
+            + "\n\n### Latest Blog Posts\n\n"
+            + blog_section
+            + "\n"
+        )
 
-    with open(README_PATH, "w") as f:
+    with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(new_content)
 
 
 def main():
-    blog_posts = []
-
-    for sitemap_url in SITEMAP_URLS:
-        try:
-            print(f"Fetching sitemap: {sitemap_url}")
-            xml_content = fetch_sitemap(sitemap_url)
-            blog_posts = extract_blog_urls_from_sitemap(xml_content)
-            if blog_posts:
-                print(f"Found {len(blog_posts)} blog posts from {sitemap_url}")
-                break
-        except Exception as e:
-            print(f"Warning: could not fetch {sitemap_url}: {e}")
-
-    if not blog_posts:
-        print("No blog posts found from any sitemap source.")
+    try:
+        posts = fetch_json(LATEST_POSTS_URL)
+    except Exception as e:
+        print(f"Error: could not fetch latest posts JSON: {e}")
         return
 
-    blog_section = generate_blog_section(blog_posts)
+    if not isinstance(posts, list) or not posts:
+        print("No blog posts found in JSON.")
+        return
+
+    blog_section = generate_blog_section(posts)
     update_readme(blog_section)
     print("README.md updated successfully.")
 
