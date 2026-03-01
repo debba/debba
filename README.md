@@ -13,6 +13,7 @@
 - *Software developer in email marketing services* @ eMailChef and turboSMTP [![](https://raw.githubusercontent.com/debba/debba/main/assets/emailchef.png)](https://www.emailchef.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/turbosmtp.png)](https://www.serversmtp.com)
 - *Open source side projects and CMS integrations*
 - *Software consultant* [@debbaweb](https://www.debbaweb.it)
+- *Currently working on* [Tabularis](https://github.com/debba/tabularis)
 
 ---
 <img align='left' style="padding:20px;vertical-align: middle;" src="https://raw.githubusercontent.com/debba/debba/main/assets/me.png" height="auto" width="250px">
