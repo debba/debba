@@ -40,6 +40,14 @@ Andrea.setInfo({
 
 ----
 
+### Latest Blog Posts
+
+<!-- BLOG-POSTS:START -->
+*Blog posts will be automatically updated every 6 hours from [tabularis.dev/blog](https://tabularis.dev/blog).*
+<!-- BLOG-POSTS:END -->
+
+----
+
 ```zsh
 >  Explore my repos 🚀
 ```
