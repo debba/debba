@@ -43,7 +43,15 @@ Andrea.setInfo({
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-*Blog posts will be automatically updated every 6 hours from [tabularis.dev/blog](https://tabularis.dev/blog).*
+- [Plugins Unleashed](https://tabularis.dev/blog/plugins-unleashed)
+- [Tabularis In A Month](https://tabularis.dev/blog/tabularis-in-a-month)
+- [Plugin Ecosystem](https://tabularis.dev/blog/plugin-ecosystem)
+- [Ai Assistant](https://tabularis.dev/blog/ai-assistant)
+- [Security And I18N](https://tabularis.dev/blog/security-and-i18n)
+- [Schema Management](https://tabularis.dev/blog/schema-management)
+- [Visual Query Builder](https://tabularis.dev/blog/visual-query-builder)
+
+*Last updated: 2026-03-01 14:44 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
