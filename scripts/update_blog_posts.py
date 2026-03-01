@@ -24,29 +24,30 @@ def fetch_json(url):
     return json.loads(content.decode("utf-8"))
 
 
-def parse_date_to_yyyy_mm_dd(value):
-    """Parse various date formats to YYYY-MM-DD; fallback to original string."""
+def parse_date_to_datetime(value):
+    """Parse various date formats to YYYY-MM-DD HH:MM; fallback to original string."""
     if not value:
         return ""
+
     value = str(value).strip()
 
-    # Common ISO-like formats we saw:
-    # 2026-02-26T23:00:00
-    # 2026-02-25T12:57
-    # 2026-02-23
-    for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M", "%Y-%m-%d"):
-        try:
-            return datetime.strptime(value, fmt).strftime("%Y-%m-%d")
-        except ValueError:
-            pass
+    formats = (
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%dT%H:%M",
+        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d %H:%M",
+        "%Y-%m-%d",
+    )
 
-    # If it includes a timezone like "Z" or "+00:00", try a minimal cleanup
+    # Remove timezone if present
     cleaned = value.replace("Z", "")
     if "+" in cleaned:
         cleaned = cleaned.split("+", 1)[0]
-    for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M"):
+
+    for fmt in formats:
         try:
-            return datetime.strptime(cleaned, fmt).strftime("%Y-%m-%d")
+            dt = datetime.strptime(cleaned, fmt)
+            return dt.strftime("%Y-%m-%d %H:%M")
         except ValueError:
             pass
 
@@ -61,26 +62,31 @@ def generate_blog_section(posts):
     posts = posts[:MAX_POSTS]
 
     lines = [START_MARKER]
-    lines.append("| Immagine | Titolo | Data |")
+    lines.append("## Latest Blog Posts")
+    lines.append("")
+    lines.append("| Preview | Title | Published |")
     lines.append("|---|---|---|")
 
     for post in posts:
         title = (post.get("title") or "").strip()
         url = (post.get("url") or "").strip()
         image = (post.get("image") or "").strip()
-        date = parse_date_to_yyyy_mm_dd(post.get("date"))
+        date = parse_date_to_datetime(post.get("date"))
 
-        img_cell = (
-            f'<img src="{image}" alt="{title}" width="{IMG_WIDTH}" />'
-            if image
-            else ""
-        )
+        # Image clickable → article
+        if image and url:
+            img_cell = f'[<img src="{image}" alt="{title}" width="{IMG_WIDTH}" />]({url})'
+        else:
+            img_cell = ""
+
         title_cell = f"[{title}]({url})" if title and url else (title or url)
 
         lines.append(f"| {img_cell} | {title_cell} | {date} |")
 
     lines.append("")
-    lines.append(f"*Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC*")
+    lines.append(
+        f"*Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC*"
+    )
     lines.append(END_MARKER)
 
     return "\n".join(lines)
@@ -101,7 +107,7 @@ def update_readme(blog_section):
     else:
         new_content = (
             content.rstrip("\n")
-            + "\n\n### Latest Blog Posts\n\n"
+            + "\n\n"
             + blog_section
             + "\n"
         )
