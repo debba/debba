@@ -62,7 +62,6 @@ def generate_blog_section(posts):
     posts = posts[:MAX_POSTS]
 
     lines = [START_MARKER]
-    lines.append("## Latest Blog Posts")
     lines.append("")
     lines.append("| Preview | Title | Published |")
     lines.append("|---|---|---|")
