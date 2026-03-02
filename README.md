@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
-| [<img src="https://tabularis.dev/blog/multi-database-connections/opengraph-image.png" alt="One Connection, Many Databases" width="120" />](https://tabularis.dev/blog/multi-database-connections) | [One Connection, Many Databases](https://tabularis.dev/blog/multi-database-connections) | 2026-03-02 00:00 |
+| [<img src="https://tabularis.dev/blog/multi-database-and-shortcuts/opengraph-image.png" alt="Multi-Database, Shortcuts, and a Cleaner Grid: v0.9.4" width="120" />](https://tabularis.dev/blog/multi-database-and-shortcuts) | [Multi-Database, Shortcuts, and a Cleaner Grid: v0.9.4](https://tabularis.dev/blog/multi-database-and-shortcuts) | 2026-03-02 21:33 |
 | [<img src="https://tabularis.dev/blog/plugins-unleashed/opengraph-image.png" alt="Plugins, Unleashed: Rollback, Python Drivers, and the Task Manager" width="120" />](https://tabularis.dev/blog/plugins-unleashed) | [Plugins, Unleashed: Rollback, Python Drivers, and the Task Manager](https://tabularis.dev/blog/plugins-unleashed) | 2026-02-26 23:00 |
 | [<img src="https://tabularis.dev/blog/tabularis-in-a-month/opengraph-image.png" alt="One Month In — and We're Just Getting Started" width="120" />](https://tabularis.dev/blog/tabularis-in-a-month) | [One Month In — and We're Just Getting Started](https://tabularis.dev/blog/tabularis-in-a-month) | 2026-02-25 12:57 |
 | [<img src="https://tabularis.dev/blog/plugin-ecosystem/opengraph-image.png" alt="Build Your Own Driver: Tabularis Gets a Plugin System" width="120" />](https://tabularis.dev/blog/plugin-ecosystem) | [Build Your Own Driver: Tabularis Gets a Plugin System](https://tabularis.dev/blog/plugin-ecosystem) | 2026-02-23 00:00 |
 | [<img src="https://tabularis.dev/blog/ai-assistant/opengraph-image.png" alt="Talk to Your Database: AI Assistant Lands in v0.8.0" width="120" />](https://tabularis.dev/blog/ai-assistant) | [Talk to Your Database: AI Assistant Lands in v0.8.0](https://tabularis.dev/blog/ai-assistant) | 2026-01-29 00:00 |
 
-*Last updated: 2026-03-02 18:45 UTC*
+*Last updated: 2026-03-02 22:40 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
