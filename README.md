@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/ai-assistant/opengraph-image.png" alt="Talk to Your Database: AI Assistant Lands in v0.8.0" width="120" />](https://tabularis.dev/blog/ai-assistant) | [Talk to Your Database: AI Assistant Lands in v0.8.0](https://tabularis.dev/blog/ai-assistant) | 2026-01-29 00:00 |
 | [<img src="https://tabularis.dev/blog/security-and-i18n/opengraph-image.png" alt="Passwords in the Keychain, Queries in Three Languages" width="120" />](https://tabularis.dev/blog/security-and-i18n) | [Passwords in the Keychain, Queries in Three Languages](https://tabularis.dev/blog/security-and-i18n) | 2026-01-28 00:00 |
 
-*Last updated: 2026-03-02 06:56 UTC*
+*Last updated: 2026-03-02 12:56 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
