@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/tabularis-in-a-month/opengraph-image.png" alt="One Month In — and We're Just Getting Started" width="120" />](https://tabularis.dev/blog/tabularis-in-a-month) | [One Month In — and We're Just Getting Started](https://tabularis.dev/blog/tabularis-in-a-month) | 2026-02-25 12:57 |
 | [<img src="https://tabularis.dev/blog/plugin-ecosystem/opengraph-image.png" alt="Build Your Own Driver: Tabularis Gets a Plugin System" width="120" />](https://tabularis.dev/blog/plugin-ecosystem) | [Build Your Own Driver: Tabularis Gets a Plugin System](https://tabularis.dev/blog/plugin-ecosystem) | 2026-02-23 00:00 |
 
-*Last updated: 2026-03-06 02:00 UTC*
+*Last updated: 2026-03-06 06:46 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
