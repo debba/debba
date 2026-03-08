@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/multi-database-and-shortcuts/opengraph-image.png" alt="Multi-Database, Shortcuts, and a Cleaner Grid: v0.9.4" width="120" />](https://tabularis.dev/blog/multi-database-and-shortcuts) | [Multi-Database, Shortcuts, and a Cleaner Grid: v0.9.4](https://tabularis.dev/blog/multi-database-and-shortcuts) | 2026-03-02 21:33 |
 | [<img src="https://tabularis.dev/blog/plugins-unleashed/opengraph-image.png" alt="Plugins, Unleashed: Rollback, Python Drivers, and the Task Manager" width="120" />](https://tabularis.dev/blog/plugins-unleashed) | [Plugins, Unleashed: Rollback, Python Drivers, and the Task Manager](https://tabularis.dev/blog/plugins-unleashed) | 2026-02-26 23:00 |
 
-*Last updated: 2026-03-08 06:40 UTC*
+*Last updated: 2026-03-08 12:45 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
