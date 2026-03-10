@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/hackernews-plugin/opengraph-image.png" alt="Query Hacker News with SQL: a New Plugin for Tabularis" width="120" />](https://tabularis.dev/blog/hackernews-plugin) | [Query Hacker News with SQL: a New Plugin for Tabularis](https://tabularis.dev/blog/hackernews-plugin) | 2026-03-10 12:00 |
+| [<img src="https://tabularis.dev/blog/v097-plugin-settings-connection-groups/opengraph-image.png" alt="Plugin Settings, Connection Groups, and Credential Cache: v0.9.7" width="120" />](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | [Plugin Settings, Connection Groups, and Credential Cache: v0.9.7](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | 2026-03-09 23:30 |
 | [<img src="https://tabularis.dev/blog/v096-redis-clickhouse-filters/opengraph-image.png" alt="Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6" width="120" />](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | [Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | 2026-03-07 12:30 |
 | [<img src="https://tabularis.dev/blog/nosql-plugins-community/opengraph-image.png" alt="Tabularis Goes NoSQL: Redis Ships, MongoDB and ClickHouse Need You" width="120" />](https://tabularis.dev/blog/nosql-plugins-community) | [Tabularis Goes NoSQL: Redis Ships, MongoDB and ClickHouse Need You](https://tabularis.dev/blog/nosql-plugins-community) | 2026-03-07 00:00 |
 | [<img src="https://tabularis.dev/blog/dump-schemas-and-grid-context-menu/opengraph-image.png" alt="Schema Dump, Grid Context Menu, and Stability Fixes: v0.9.5" width="120" />](https://tabularis.dev/blog/dump-schemas-and-grid-context-menu) | [Schema Dump, Grid Context Menu, and Stability Fixes: v0.9.5](https://tabularis.dev/blog/dump-schemas-and-grid-context-menu) | 2026-03-04 12:00 |
-| [<img src="https://tabularis.dev/blog/multi-database-and-shortcuts/opengraph-image.png" alt="Multi-Database, Shortcuts, and a Cleaner Grid: v0.9.4" width="120" />](https://tabularis.dev/blog/multi-database-and-shortcuts) | [Multi-Database, Shortcuts, and a Cleaner Grid: v0.9.4](https://tabularis.dev/blog/multi-database-and-shortcuts) | 2026-03-02 21:33 |
-| [<img src="https://tabularis.dev/blog/plugins-unleashed/opengraph-image.png" alt="Plugins, Unleashed: Rollback, Python Drivers, and the Task Manager" width="120" />](https://tabularis.dev/blog/plugins-unleashed) | [Plugins, Unleashed: Rollback, Python Drivers, and the Task Manager](https://tabularis.dev/blog/plugins-unleashed) | 2026-02-26 23:00 |
 
-*Last updated: 2026-03-09 18:51 UTC*
+*Last updated: 2026-03-10 01:55 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
