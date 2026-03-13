@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v096-redis-clickhouse-filters/opengraph-image.png" alt="Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6" width="120" />](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | [Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | 2026-03-07 12:30 |
 | [<img src="https://tabularis.dev/blog/nosql-plugins-community/opengraph-image.png" alt="Tabularis Goes NoSQL: Redis Ships, MongoDB and ClickHouse Need You" width="120" />](https://tabularis.dev/blog/nosql-plugins-community) | [Tabularis Goes NoSQL: Redis Ships, MongoDB and ClickHouse Need You](https://tabularis.dev/blog/nosql-plugins-community) | 2026-03-07 00:00 |
 
-*Last updated: 2026-03-13 01:58 UTC*
+*Last updated: 2026-03-13 06:52 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
