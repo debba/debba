@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v097-plugin-settings-connection-groups/opengraph-image.png" alt="Plugin Settings, Connection Groups, and Credential Cache: v0.9.7" width="120" />](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | [Plugin Settings, Connection Groups, and Credential Cache: v0.9.7](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | 2026-03-09 23:30 |
 | [<img src="https://tabularis.dev/blog/v096-redis-clickhouse-filters/opengraph-image.png" alt="Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6" width="120" />](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | [Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | 2026-03-07 12:30 |
 
-*Last updated: 2026-03-14 18:37 UTC*
+*Last updated: 2026-03-15 02:13 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
