@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/plugin-ui-extensions/opengraph-image.png" alt="Phase 2 of the Plugin System: Plugins That Touch the UI" width="120" />](https://tabularis.dev/blog/plugin-ui-extensions) | [Phase 2 of the Plugin System: Plugins That Touch the UI](https://tabularis.dev/blog/plugin-ui-extensions) | 2026-03-15 12:00 |
 | [<img src="https://tabularis.dev/blog/v099-mcp-multi-client/opengraph-image.png" alt="MCP Multi-Client Support and Connection Improvements: v0.9.9" width="120" />](https://tabularis.dev/blog/v099-mcp-multi-client) | [MCP Multi-Client Support and Connection Improvements: v0.9.9](https://tabularis.dev/blog/v099-mcp-multi-client) | 2026-03-14 10:39 |
 | [<img src="https://tabularis.dev/blog/v098-connection-string-import/opengraph-image.png" alt="Connection String Import, Visual Query Builder Fix, and More: v0.9.8" width="120" />](https://tabularis.dev/blog/v098-connection-string-import) | [Connection String Import, Visual Query Builder Fix, and More: v0.9.8](https://tabularis.dev/blog/v098-connection-string-import) | 2026-03-12 12:00 |
 | [<img src="https://tabularis.dev/blog/hackernews-plugin/opengraph-image.png" alt="Query Hacker News with SQL: a New Plugin for Tabularis" width="120" />](https://tabularis.dev/blog/hackernews-plugin) | [Query Hacker News with SQL: a New Plugin for Tabularis](https://tabularis.dev/blog/hackernews-plugin) | 2026-03-10 12:00 |
 | [<img src="https://tabularis.dev/blog/v097-plugin-settings-connection-groups/opengraph-image.png" alt="Plugin Settings, Connection Groups, and Credential Cache: v0.9.7" width="120" />](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | [Plugin Settings, Connection Groups, and Credential Cache: v0.9.7](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | 2026-03-09 23:30 |
-| [<img src="https://tabularis.dev/blog/v096-redis-clickhouse-filters/opengraph-image.png" alt="Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6" width="120" />](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | [Smarter Filters, Close Tab, and a Better Plugin Install: v0.9.6](https://tabularis.dev/blog/v096-redis-clickhouse-filters) | 2026-03-07 12:30 |
 
-*Last updated: 2026-03-15 12:51 UTC*
+*Last updated: 2026-03-15 18:37 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
