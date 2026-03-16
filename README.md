@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/hackernews-plugin/opengraph-image.png" alt="Query Hacker News with SQL: a New Plugin for Tabularis" width="120" />](https://tabularis.dev/blog/hackernews-plugin) | [Query Hacker News with SQL: a New Plugin for Tabularis](https://tabularis.dev/blog/hackernews-plugin) | 2026-03-10 12:00 |
 | [<img src="https://tabularis.dev/blog/v097-plugin-settings-connection-groups/opengraph-image.png" alt="Plugin Settings, Connection Groups, and Credential Cache: v0.9.7" width="120" />](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | [Plugin Settings, Connection Groups, and Credential Cache: v0.9.7](https://tabularis.dev/blog/v097-plugin-settings-connection-groups) | 2026-03-09 23:30 |
 
-*Last updated: 2026-03-16 07:15 UTC*
+*Last updated: 2026-03-16 13:09 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
