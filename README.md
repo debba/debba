@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v098-connection-string-import/opengraph-image.png" alt="Connection String Import, Visual Query Builder Fix, and More: v0.9.8" width="120" />](https://tabularis.dev/blog/v098-connection-string-import) | [Connection String Import, Visual Query Builder Fix, and More: v0.9.8](https://tabularis.dev/blog/v098-connection-string-import) | 2026-03-12 12:00 |
 | [<img src="https://tabularis.dev/blog/hackernews-plugin/opengraph-image.png" alt="Query Hacker News with SQL: a New Plugin for Tabularis" width="120" />](https://tabularis.dev/blog/hackernews-plugin) | [Query Hacker News with SQL: a New Plugin for Tabularis](https://tabularis.dev/blog/hackernews-plugin) | 2026-03-10 12:00 |
 
-*Last updated: 2026-03-22 12:49 UTC*
+*Last updated: 2026-03-22 18:35 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
