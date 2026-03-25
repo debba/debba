@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing/opengraph-image.png" alt="v0.9.11: 你好 Tabularis" width="120" />](https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing) | [v0.9.11: 你好 Tabularis](https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing) | 2026-03-25 07:21 |
 | [<img src="https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip/opengraph-image.png" alt="v0.9.10, UI Extensions in Progress, and Two Real Plugins" width="120" />](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | [v0.9.10, UI Extensions in Progress, and Two Real Plugins](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | 2026-03-18 13:00 |
 | [<img src="https://tabularis.dev/blog/plugin-ui-extensions/opengraph-image.png" alt="Phase 2 of the Plugin System: Plugins That Touch the UI" width="120" />](https://tabularis.dev/blog/plugin-ui-extensions) | [Phase 2 of the Plugin System: Plugins That Touch the UI](https://tabularis.dev/blog/plugin-ui-extensions) | 2026-03-15 12:00 |
 | [<img src="https://tabularis.dev/blog/v099-mcp-multi-client/opengraph-image.png" alt="MCP Multi-Client Support and Connection Improvements: v0.9.9" width="120" />](https://tabularis.dev/blog/v099-mcp-multi-client) | [MCP Multi-Client Support and Connection Improvements: v0.9.9](https://tabularis.dev/blog/v099-mcp-multi-client) | 2026-03-14 10:39 |
 | [<img src="https://tabularis.dev/blog/v098-connection-string-import/opengraph-image.png" alt="Connection String Import, Visual Query Builder Fix, and More: v0.9.8" width="120" />](https://tabularis.dev/blog/v098-connection-string-import) | [Connection String Import, Visual Query Builder Fix, and More: v0.9.8](https://tabularis.dev/blog/v098-connection-string-import) | 2026-03-12 12:00 |
-| [<img src="https://tabularis.dev/blog/hackernews-plugin/opengraph-image.png" alt="Query Hacker News with SQL: a New Plugin for Tabularis" width="120" />](https://tabularis.dev/blog/hackernews-plugin) | [Query Hacker News with SQL: a New Plugin for Tabularis](https://tabularis.dev/blog/hackernews-plugin) | 2026-03-10 12:00 |
 
-*Last updated: 2026-03-25 02:05 UTC*
+*Last updated: 2026-03-25 07:00 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
