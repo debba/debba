@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v099-mcp-multi-client/opengraph-image.png" alt="MCP Multi-Client Support and Connection Improvements: v0.9.9" width="120" />](https://tabularis.dev/blog/v099-mcp-multi-client) | [MCP Multi-Client Support and Connection Improvements: v0.9.9](https://tabularis.dev/blog/v099-mcp-multi-client) | 2026-03-14 10:39 |
 | [<img src="https://tabularis.dev/blog/v098-connection-string-import/opengraph-image.png" alt="Connection String Import, Visual Query Builder Fix, and More: v0.9.8" width="120" />](https://tabularis.dev/blog/v098-connection-string-import) | [Connection String Import, Visual Query Builder Fix, and More: v0.9.8](https://tabularis.dev/blog/v098-connection-string-import) | 2026-03-12 12:00 |
 
-*Last updated: 2026-03-27 07:05 UTC*
+*Last updated: 2026-03-27 13:04 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
