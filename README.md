@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/plugin-ui-extensions/opengraph-image.png" alt="Phase 2 of the Plugin System: Plugins That Touch the UI" width="120" />](https://tabularis.dev/blog/plugin-ui-extensions) | [Phase 2 of the Plugin System: Plugins That Touch the UI](https://tabularis.dev/blog/plugin-ui-extensions) | 2026-03-15 12:00 |
 | [<img src="https://tabularis.dev/blog/v099-mcp-multi-client/opengraph-image.png" alt="MCP Multi-Client Support and Connection Improvements: v0.9.9" width="120" />](https://tabularis.dev/blog/v099-mcp-multi-client) | [MCP Multi-Client Support and Connection Improvements: v0.9.9](https://tabularis.dev/blog/v099-mcp-multi-client) | 2026-03-14 10:39 |
 
-*Last updated: 2026-03-31 07:12 UTC*
+*Last updated: 2026-03-31 13:16 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
