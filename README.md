@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip/opengraph-image.png" alt="v0.9.10, UI Extensions in Progress, and Two Real Plugins" width="120" />](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | [v0.9.10, UI Extensions in Progress, and Two Real Plugins](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | 2026-03-18 13:00 |
 | [<img src="https://tabularis.dev/blog/plugin-ui-extensions/opengraph-image.png" alt="Phase 2 of the Plugin System: Plugins That Touch the UI" width="120" />](https://tabularis.dev/blog/plugin-ui-extensions) | [Phase 2 of the Plugin System: Plugins That Touch the UI](https://tabularis.dev/blog/plugin-ui-extensions) | 2026-03-15 12:00 |
 
-*Last updated: 2026-04-02 18:55 UTC*
+*Last updated: 2026-04-03 02:10 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
