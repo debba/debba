@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/notebooks-sql-analysis-reimagined/opengraph-image.png" alt="Notebooks: SQL Analysis, Reimagined" width="120" />](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | [Notebooks: SQL Analysis, Reimagined](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | 2026-04-03 10:00 |
 | [<img src="https://tabularis.dev/blog/v0913-ui-extensions-postgres-types-settings/opengraph-image.png" alt="v0.9.13: Plugins Meet the Interface" width="120" />](https://tabularis.dev/blog/v0913-ui-extensions-postgres-types-settings) | [v0.9.13: Plugins Meet the Interface](https://tabularis.dev/blog/v0913-ui-extensions-postgres-types-settings) | 2026-04-02 11:33 |
 | [<img src="https://tabularis.dev/blog/v0912-tokio-postgres-minimax-json-editor/opengraph-image.png" alt="v0.9.12: Under the Hood" width="120" />](https://tabularis.dev/blog/v0912-tokio-postgres-minimax-json-editor) | [v0.9.12: Under the Hood](https://tabularis.dev/blog/v0912-tokio-postgres-minimax-json-editor) | 2026-03-29 11:20 |
 | [<img src="https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing/opengraph-image.png" alt="v0.9.11: 你好 Tabularis" width="120" />](https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing) | [v0.9.11: 你好 Tabularis](https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing) | 2026-03-25 07:21 |
 | [<img src="https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip/opengraph-image.png" alt="v0.9.10, UI Extensions in Progress, and Two Real Plugins" width="120" />](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | [v0.9.10, UI Extensions in Progress, and Two Real Plugins](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | 2026-03-18 13:00 |
-| [<img src="https://tabularis.dev/blog/plugin-ui-extensions/opengraph-image.png" alt="Phase 2 of the Plugin System: Plugins That Touch the UI" width="120" />](https://tabularis.dev/blog/plugin-ui-extensions) | [Phase 2 of the Plugin System: Plugins That Touch the UI](https://tabularis.dev/blog/plugin-ui-extensions) | 2026-03-15 12:00 |
 
-*Last updated: 2026-04-03 02:10 UTC*
+*Last updated: 2026-04-03 07:06 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
