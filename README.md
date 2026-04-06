@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing/opengraph-image.png" alt="v0.9.11: 你好 Tabularis" width="120" />](https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing) | [v0.9.11: 你好 Tabularis](https://tabularis.dev/blog/v0911-chinese-postgres-arrays-inline-editing) | 2026-03-25 07:21 |
 | [<img src="https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip/opengraph-image.png" alt="v0.9.10, UI Extensions in Progress, and Two Real Plugins" width="120" />](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | [v0.9.10, UI Extensions in Progress, and Two Real Plugins](https://tabularis.dev/blog/v0910-bugfixes-ui-extensions-wip) | 2026-03-18 13:00 |
 
-*Last updated: 2026-04-06 07:28 UTC*
+*Last updated: 2026-04-06 13:07 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
