@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/notebooks-sql-analysis-reimagined/opengraph-image.png" alt="Notebooks: SQL Analysis, Reimagined" width="120" />](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | [Notebooks: SQL Analysis, Reimagined](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | 2026-04-03 10:00 |
 | [<img src="https://tabularis.dev/blog/v0913-ui-extensions-postgres-types-settings/opengraph-image.png" alt="v0.9.13: Plugins Meet the Interface" width="120" />](https://tabularis.dev/blog/v0913-ui-extensions-postgres-types-settings) | [v0.9.13: Plugins Meet the Interface](https://tabularis.dev/blog/v0913-ui-extensions-postgres-types-settings) | 2026-04-02 11:33 |
 
-*Last updated: 2026-04-11 12:55 UTC*
+*Last updated: 2026-04-11 18:42 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
