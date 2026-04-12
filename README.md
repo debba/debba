@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0914-health-check-postgres-types-modals/opengraph-image.png" alt="v0.9.14: Always Connected" width="120" />](https://tabularis.dev/blog/v0914-health-check-postgres-types-modals) | [v0.9.14: Always Connected](https://tabularis.dev/blog/v0914-health-check-postgres-types-modals) | 2026-04-07 22:12 |
 | [<img src="https://tabularis.dev/blog/notebooks-sql-analysis-reimagined/opengraph-image.png" alt="Notebooks: SQL Analysis, Reimagined" width="120" />](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | [Notebooks: SQL Analysis, Reimagined](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | 2026-04-03 10:00 |
 
-*Last updated: 2026-04-12 12:58 UTC*
+*Last updated: 2026-04-12 18:48 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
