@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/from-zero-to-1000-github-stars/opengraph-image.png" alt="From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks" width="120" />](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | [From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | 2026-04-14 09:00 |
 | [<img src="https://tabularis.dev/blog/v0916-connection-groups-drag-drop/opengraph-image.png" alt="v0.9.16: Connection Groups, But Faster" width="120" />](https://tabularis.dev/blog/v0916-connection-groups-drag-drop) | [v0.9.16: Connection Groups, But Faster](https://tabularis.dev/blog/v0916-connection-groups-drag-drop) | 2026-04-12 09:47 |
 | [<img src="https://tabularis.dev/blog/visual-explain-query-plan-analysis/opengraph-image.png" alt="Visual EXPLAIN: Execution Plans You Can Actually Read" width="120" />](https://tabularis.dev/blog/visual-explain-query-plan-analysis) | [Visual EXPLAIN: Execution Plans You Can Actually Read](https://tabularis.dev/blog/visual-explain-query-plan-analysis) | 2026-04-10 21:50 |
 | [<img src="https://tabularis.dev/blog/v0915-notebooks-multi-query-ai-rename/opengraph-image.png" alt="v0.9.15: The Notebook Release" width="120" />](https://tabularis.dev/blog/v0915-notebooks-multi-query-ai-rename) | [v0.9.15: The Notebook Release](https://tabularis.dev/blog/v0915-notebooks-multi-query-ai-rename) | 2026-04-08 18:00 |
 | [<img src="https://tabularis.dev/blog/v0914-health-check-postgres-types-modals/opengraph-image.png" alt="v0.9.14: Always Connected" width="120" />](https://tabularis.dev/blog/v0914-health-check-postgres-types-modals) | [v0.9.14: Always Connected](https://tabularis.dev/blog/v0914-health-check-postgres-types-modals) | 2026-04-07 22:12 |
-| [<img src="https://tabularis.dev/blog/notebooks-sql-analysis-reimagined/opengraph-image.png" alt="Notebooks: SQL Analysis, Reimagined" width="120" />](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | [Notebooks: SQL Analysis, Reimagined](https://tabularis.dev/blog/notebooks-sql-analysis-reimagined) | 2026-04-03 10:00 |
 
-*Last updated: 2026-04-14 02:28 UTC*
+*Last updated: 2026-04-14 07:43 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
