@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0916-connection-groups-drag-drop/opengraph-image.png" alt="v0.9.16: Connection Groups, But Faster" width="120" />](https://tabularis.dev/blog/v0916-connection-groups-drag-drop) | [v0.9.16: Connection Groups, But Faster](https://tabularis.dev/blog/v0916-connection-groups-drag-drop) | 2026-04-12 09:47 |
 | [<img src="https://tabularis.dev/blog/visual-explain-query-plan-analysis/opengraph-image.png" alt="Visual EXPLAIN: Execution Plans You Can Actually Read" width="120" />](https://tabularis.dev/blog/visual-explain-query-plan-analysis) | [Visual EXPLAIN: Execution Plans You Can Actually Read](https://tabularis.dev/blog/visual-explain-query-plan-analysis) | 2026-04-10 21:50 |
 
-*Last updated: 2026-04-16 13:28 UTC*
+*Last updated: 2026-04-16 19:11 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
