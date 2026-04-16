@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/visual-explain-query-plan-analysis/opengraph-image.png" alt="Visual EXPLAIN: Execution Plans You Can Actually Read" width="120" />](https://tabularis.dev/blog/visual-explain-query-plan-analysis) | [Visual EXPLAIN: Execution Plans You Can Actually Read](https://tabularis.dev/blog/visual-explain-query-plan-analysis) | 2026-04-10 21:50 |
 | [<img src="https://tabularis.dev/blog/v0915-notebooks-multi-query-ai-rename/opengraph-image.png" alt="v0.9.15: The Notebook Release" width="120" />](https://tabularis.dev/blog/v0915-notebooks-multi-query-ai-rename) | [v0.9.15: The Notebook Release](https://tabularis.dev/blog/v0915-notebooks-multi-query-ai-rename) | 2026-04-08 18:00 |
 
-*Last updated: 2026-04-16 02:33 UTC*
+*Last updated: 2026-04-16 07:44 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
