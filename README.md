@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/building-tabularis-future-of-databases-ai/opengraph-image.png" alt="Databases Are Not Becoming Chatbots" width="120" />](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | [Databases Are Not Becoming Chatbots](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | 2026-04-17 12:30 |
 | [<img src="https://tabularis.dev/blog/v0919-polish-french-german/opengraph-image.png" alt="v0.9.19: Polish, Bug Fixes, French and German" width="120" />](https://tabularis.dev/blog/v0919-polish-french-german) | [v0.9.19: Polish, Bug Fixes, French and German](https://tabularis.dev/blog/v0919-polish-french-german) | 2026-04-16 22:30 |
 | [<img src="https://tabularis.dev/blog/v0918-query-history/opengraph-image.png" alt="v0.9.18: Query History Becomes a Workflow" width="120" />](https://tabularis.dev/blog/v0918-query-history) | [v0.9.18: Query History Becomes a Workflow](https://tabularis.dev/blog/v0918-query-history) | 2026-04-16 12:15 |
 | [<img src="https://tabularis.dev/blog/v0917-visual-explain/opengraph-image.png" alt="v0.9.17: Visual EXPLAIN Arrives" width="120" />](https://tabularis.dev/blog/v0917-visual-explain) | [v0.9.17: Visual EXPLAIN Arrives](https://tabularis.dev/blog/v0917-visual-explain) | 2026-04-14 12:00 |
 | [<img src="https://tabularis.dev/blog/from-zero-to-1000-github-stars/opengraph-image.png" alt="From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks" width="120" />](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | [From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | 2026-04-14 09:00 |
-| [<img src="https://tabularis.dev/blog/v0916-connection-groups-drag-drop/opengraph-image.png" alt="v0.9.16: Connection Groups, But Faster" width="120" />](https://tabularis.dev/blog/v0916-connection-groups-drag-drop) | [v0.9.16: Connection Groups, But Faster](https://tabularis.dev/blog/v0916-connection-groups-drag-drop) | 2026-04-12 09:47 |
 
-*Last updated: 2026-04-17 07:44 UTC*
+*Last updated: 2026-04-17 13:16 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
