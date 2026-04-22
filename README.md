@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0919-polish-french-german/opengraph-image.png" alt="v0.9.19: Polish, Bug Fixes, French and German" width="120" />](https://tabularis.dev/blog/v0919-polish-french-german) | [v0.9.19: Polish, Bug Fixes, French and German](https://tabularis.dev/blog/v0919-polish-french-german) | 2026-04-16 22:30 |
 | [<img src="https://tabularis.dev/blog/v0918-query-history/opengraph-image.png" alt="v0.9.18: Query History Becomes a Workflow" width="120" />](https://tabularis.dev/blog/v0918-query-history) | [v0.9.18: Query History Becomes a Workflow](https://tabularis.dev/blog/v0918-query-history) | 2026-04-16 12:15 |
 
-*Last updated: 2026-04-22 13:24 UTC*
+*Last updated: 2026-04-22 19:11 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
