@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/sql-server-looking-for-contributors/opengraph-image.png" alt="SQL Server Driver: Looking for Contributors" width="120" />](https://tabularis.dev/blog/sql-server-looking-for-contributors) | [SQL Server Driver: Looking for Contributors](https://tabularis.dev/blog/sql-server-looking-for-contributors) | 2026-04-23 12:00 |
 | [<img src="https://tabularis.dev/blog/google-sheets-driver-tutorial/opengraph-image.png" alt="Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step" width="120" />](https://tabularis.dev/blog/google-sheets-driver-tutorial) | [Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step](https://tabularis.dev/blog/google-sheets-driver-tutorial) | 2026-04-21 12:00 |
 | [<img src="https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos/opengraph-image.png" alt="v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel" width="120" />](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | [v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | 2026-04-21 12:00 |
 | [<img src="https://tabularis.dev/blog/building-tabularis-future-of-databases-ai/opengraph-image.png" alt="Databases Are Not Becoming Chatbots" width="120" />](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | [Databases Are Not Becoming Chatbots](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | 2026-04-17 12:30 |
 | [<img src="https://tabularis.dev/blog/v0919-polish-french-german/opengraph-image.png" alt="v0.9.19: Polish, Bug Fixes, French and German" width="120" />](https://tabularis.dev/blog/v0919-polish-french-german) | [v0.9.19: Polish, Bug Fixes, French and German](https://tabularis.dev/blog/v0919-polish-french-german) | 2026-04-16 22:30 |
-| [<img src="https://tabularis.dev/blog/v0918-query-history/opengraph-image.png" alt="v0.9.18: Query History Becomes a Workflow" width="120" />](https://tabularis.dev/blog/v0918-query-history) | [v0.9.18: Query History Becomes a Workflow](https://tabularis.dev/blog/v0918-query-history) | 2026-04-16 12:15 |
 
-*Last updated: 2026-04-23 07:50 UTC*
+*Last updated: 2026-04-23 13:26 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
