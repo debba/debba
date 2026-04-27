@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/v0100-ai-safety-audit-approval/opengraph-image.png" alt="AI Safety, Audit Log and Approval Gates: v0.10.0" width="120" />](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | [AI Safety, Audit Log and Approval Gates: v0.10.0](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | 2026-04-25 10:00 |
 | [<img src="https://tabularis.dev/blog/sql-server-looking-for-contributors/opengraph-image.png" alt="SQL Server Driver: Looking for Contributors" width="120" />](https://tabularis.dev/blog/sql-server-looking-for-contributors) | [SQL Server Driver: Looking for Contributors](https://tabularis.dev/blog/sql-server-looking-for-contributors) | 2026-04-23 12:00 |
 | [<img src="https://tabularis.dev/blog/google-sheets-driver-tutorial/opengraph-image.png" alt="Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step" width="120" />](https://tabularis.dev/blog/google-sheets-driver-tutorial) | [Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step](https://tabularis.dev/blog/google-sheets-driver-tutorial) | 2026-04-21 12:00 |
 | [<img src="https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos/opengraph-image.png" alt="v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel" width="120" />](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | [v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | 2026-04-21 12:00 |
 | [<img src="https://tabularis.dev/blog/building-tabularis-future-of-databases-ai/opengraph-image.png" alt="Databases Are Not Becoming Chatbots" width="120" />](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | [Databases Are Not Becoming Chatbots](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | 2026-04-17 12:30 |
-| [<img src="https://tabularis.dev/blog/v0919-polish-french-german/opengraph-image.png" alt="v0.9.19: Polish, Bug Fixes, French and German" width="120" />](https://tabularis.dev/blog/v0919-polish-french-german) | [v0.9.19: Polish, Bug Fixes, French and German](https://tabularis.dev/blog/v0919-polish-french-german) | 2026-04-16 22:30 |
 
-*Last updated: 2026-04-27 13:50 UTC*
+*Last updated: 2026-04-27 19:19 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
