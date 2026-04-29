@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos/opengraph-image.png" alt="v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel" width="120" />](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | [v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | 2026-04-21 12:00 |
 | [<img src="https://tabularis.dev/blog/building-tabularis-future-of-databases-ai/opengraph-image.png" alt="Databases Are Not Becoming Chatbots" width="120" />](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | [Databases Are Not Becoming Chatbots](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | 2026-04-17 12:30 |
 
-*Last updated: 2026-04-28 19:39 UTC*
+*Last updated: 2026-04-29 02:46 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
