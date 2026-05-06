@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/google-sheets-driver-tutorial/opengraph-image.png" alt="Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step" width="120" />](https://tabularis.dev/blog/google-sheets-driver-tutorial) | [Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step](https://tabularis.dev/blog/google-sheets-driver-tutorial) | 2026-04-21 12:00 |
 | [<img src="https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos/opengraph-image.png" alt="v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel" width="120" />](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | [v0.9.20: Clipboard Import, Visual EXPLAIN Import, and a Community Look & Feel](https://tabularis.dev/blog/v0920-clipboard-import-visual-explain-videos) | 2026-04-21 12:00 |
 
-*Last updated: 2026-05-05 19:17 UTC*
+*Last updated: 2026-05-06 02:42 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
