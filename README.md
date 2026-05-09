@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/sql-server-looking-for-contributors/opengraph-image.png" alt="SQL Server Driver: Looking for Contributors" width="120" />](https://tabularis.dev/blog/sql-server-looking-for-contributors) | [SQL Server Driver: Looking for Contributors](https://tabularis.dev/blog/sql-server-looking-for-contributors) | 2026-04-23 12:00 |
 | [<img src="https://tabularis.dev/blog/google-sheets-driver-tutorial/opengraph-image.png" alt="Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step" width="120" />](https://tabularis.dev/blog/google-sheets-driver-tutorial) | [Your First Tabularis Driver in 20 Minutes: Google Sheets, Step by Step](https://tabularis.dev/blog/google-sheets-driver-tutorial) | 2026-04-21 12:00 |
 
-*Last updated: 2026-05-08 19:15 UTC*
+*Last updated: 2026-05-09 02:43 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
