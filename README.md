@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0100-ai-safety-audit-approval/opengraph-image.png" alt="AI Safety, Audit Log and Approval Gates: v0.10.0" width="120" />](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | [AI Safety, Audit Log and Approval Gates: v0.10.0](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | 2026-04-25 10:00 |
 | [<img src="https://tabularis.dev/blog/sql-server-looking-for-contributors/opengraph-image.png" alt="SQL Server Driver: Looking for Contributors" width="120" />](https://tabularis.dev/blog/sql-server-looking-for-contributors) | [SQL Server Driver: Looking for Contributors](https://tabularis.dev/blog/sql-server-looking-for-contributors) | 2026-04-23 12:00 |
 
-*Last updated: 2026-05-12 08:37 UTC*
+*Last updated: 2026-05-12 14:22 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
