@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese/opengraph-image.png" alt="v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語" width="120" />](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | [v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | 2026-05-18 10:00 |
 | [<img src="https://tabularis.dev/blog/database-has-to-defend-itself-again/opengraph-image.png" alt="The Database Has to Defend Itself Again" width="120" />](https://tabularis.dev/blog/database-has-to-defend-itself-again) | [The Database Has to Defend Itself Again](https://tabularis.dev/blog/database-has-to-defend-itself-again) | 2026-05-13 11:00 |
 | [<img src="https://tabularis.dev/blog/v0103-connection-import-export-editor-error-boundary-firestore/opengraph-image.png" alt="v0.10.3: Portable Connections, an Editor Error Boundary, and Firestore" width="120" />](https://tabularis.dev/blog/v0103-connection-import-export-editor-error-boundary-firestore) | [v0.10.3: Portable Connections, an Editor Error Boundary, and Firestore](https://tabularis.dev/blog/v0103-connection-import-export-editor-error-boundary-firestore) | 2026-05-11 10:00 |
 | [<img src="https://tabularis.dev/blog/v0102-postgres-rds-tls-cell-selection-sql-insert/opengraph-image.png" alt="v0.10.2: Postgres on AWS RDS, Cell-Level Copy, and SQL INSERT Export" width="120" />](https://tabularis.dev/blog/v0102-postgres-rds-tls-cell-selection-sql-insert) | [v0.10.2: Postgres on AWS RDS, Cell-Level Copy, and SQL INSERT Export](https://tabularis.dev/blog/v0102-postgres-rds-tls-cell-selection-sql-insert) | 2026-05-08 08:59 |
 | [<img src="https://tabularis.dev/blog/v0101-pagination-fix-context-menu-postgres-bindings/opengraph-image.png" alt="v0.10.1: Pagination Fix, Context Menu Actions, and Postgres Bindings" width="120" />](https://tabularis.dev/blog/v0101-pagination-fix-context-menu-postgres-bindings) | [v0.10.1: Pagination Fix, Context Menu Actions, and Postgres Bindings](https://tabularis.dev/blog/v0101-pagination-fix-context-menu-postgres-bindings) | 2026-05-04 12:00 |
-| [<img src="https://tabularis.dev/blog/v0100-ai-safety-audit-approval/opengraph-image.png" alt="AI Safety, Audit Log and Approval Gates: v0.10.0" width="120" />](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | [AI Safety, Audit Log and Approval Gates: v0.10.0](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | 2026-04-25 10:00 |
 
-*Last updated: 2026-05-18 10:00 UTC*
+*Last updated: 2026-05-18 15:29 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
