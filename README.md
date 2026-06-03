@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese/opengraph-image.png" alt="v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語" width="120" />](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | [v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | 2026-05-18 10:00 |
 | [<img src="https://tabularis.dev/blog/database-has-to-defend-itself-again/opengraph-image.png" alt="The Database Has to Defend Itself Again" width="120" />](https://tabularis.dev/blog/database-has-to-defend-itself-again) | [The Database Has to Defend Itself Again](https://tabularis.dev/blog/database-has-to-defend-itself-again) | 2026-05-13 11:00 |
 
-*Last updated: 2026-06-03 10:33 UTC*
+*Last updated: 2026-06-03 10:55 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
