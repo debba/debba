@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs/opengraph-image.png" alt="v0.13.0: Kubernetes Tunnels, a Quick Navigator, and MCP That Reaches Your Plugins" width="120" />](https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs) | [v0.13.0: Kubernetes Tunnels, a Quick Navigator, and MCP That Reaches Your Plugins](https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs) | 2026-06-03 10:00 |
 | [<img src="https://tabularis.dev/blog/v0120-per-connection-appearance-related-records-sql-splitter/opengraph-image.png" alt="v0.12.0: Per-Connection Appearance, Related Records, and a SQL Splitter We Own" width="120" />](https://tabularis.dev/blog/v0120-per-connection-appearance-related-records-sql-splitter) | [v0.12.0: Per-Connection Appearance, Related Records, and a SQL Splitter We Own](https://tabularis.dev/blog/v0120-per-connection-appearance-related-records-sql-splitter) | 2026-05-25 10:00 |
 | [<img src="https://tabularis.dev/blog/digitalocean-opensource-sponsorship/opengraph-image.png" alt="Tabularis Is Now Backed by DigitalOcean" width="120" />](https://tabularis.dev/blog/digitalocean-opensource-sponsorship) | [Tabularis Is Now Backed by DigitalOcean](https://tabularis.dev/blog/digitalocean-opensource-sponsorship) | 2026-05-20 11:00 |
 | [<img src="https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese/opengraph-image.png" alt="v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語" width="120" />](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | [v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | 2026-05-18 10:00 |
 | [<img src="https://tabularis.dev/blog/database-has-to-defend-itself-again/opengraph-image.png" alt="The Database Has to Defend Itself Again" width="120" />](https://tabularis.dev/blog/database-has-to-defend-itself-again) | [The Database Has to Defend Itself Again](https://tabularis.dev/blog/database-has-to-defend-itself-again) | 2026-05-13 11:00 |
-| [<img src="https://tabularis.dev/blog/v0103-connection-import-export-editor-error-boundary-firestore/opengraph-image.png" alt="v0.10.3: Portable Connections, an Editor Error Boundary, and Firestore" width="120" />](https://tabularis.dev/blog/v0103-connection-import-export-editor-error-boundary-firestore) | [v0.10.3: Portable Connections, an Editor Error Boundary, and Firestore](https://tabularis.dev/blog/v0103-connection-import-export-editor-error-boundary-firestore) | 2026-05-11 10:00 |
 
-*Last updated: 2026-06-03 03:57 UTC*
+*Last updated: 2026-06-03 10:33 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
