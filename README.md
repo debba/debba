@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs/opengraph-image.png" alt="v0.13.0: Kubernetes Tunnels, a Quick Navigator, and MCP That Reaches Your Plugins" width="120" />](https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs) | [v0.13.0: Kubernetes Tunnels, a Quick Navigator, and MCP That Reaches Your Plugins](https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs) | 2026-06-03 10:00 |
 | [<img src="https://tabularis.dev/blog/v0120-per-connection-appearance-related-records-sql-splitter/opengraph-image.png" alt="v0.12.0: Per-Connection Appearance, Related Records, and a SQL Splitter We Own" width="120" />](https://tabularis.dev/blog/v0120-per-connection-appearance-related-records-sql-splitter) | [v0.12.0: Per-Connection Appearance, Related Records, and a SQL Splitter We Own](https://tabularis.dev/blog/v0120-per-connection-appearance-related-records-sql-splitter) | 2026-05-25 10:00 |
 
-*Last updated: 2026-06-08 10:50 UTC*
+*Last updated: 2026-06-08 15:48 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
