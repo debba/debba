@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/your-database-gui-shouldnt-need-an-account/opengraph-image.png" alt="Your Database GUI Shouldn't Need an Account" width="120" />](https://tabularis.dev/blog/your-database-gui-shouldnt-need-an-account) | [Your Database GUI Shouldn't Need an Account](https://tabularis.dev/blog/your-database-gui-shouldnt-need-an-account) | 2026-06-03 15:34 |
 | [<img src="https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs/opengraph-image.png" alt="v0.13.0: Kubernetes Tunnels, a Quick Navigator, and MCP That Reaches Your Plugins" width="120" />](https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs) | [v0.13.0: Kubernetes Tunnels, a Quick Navigator, and MCP That Reaches Your Plugins](https://tabularis.dev/blog/v0130-kubernetes-tunnels-quick-navigator-dml-tabs) | 2026-06-03 10:00 |
 
-*Last updated: 2026-06-11 15:57 UTC*
+*Last updated: 2026-06-11 20:19 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
