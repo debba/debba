@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination/opengraph-image.png" alt="v0.13.1: Signed macOS Builds, a Postgres Explain That Finally Runs, and Pagination That Honors Your OFFSET" width="120" />](https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination) | [v0.13.1: Signed macOS Builds, a Postgres Explain That Finally Runs, and Pagination That Honors Your OFFSET](https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination) | 2026-06-05 11:00 |
 | [<img src="https://tabularis.dev/blog/sourceforge-rising-star-award/opengraph-image.png" alt="Tabularis Wins a SourceForge Rising Star Award" width="120" />](https://tabularis.dev/blog/sourceforge-rising-star-award) | [Tabularis Wins a SourceForge Rising Star Award](https://tabularis.dev/blog/sourceforge-rising-star-award) | 2026-06-05 09:51 |
 
-*Last updated: 2026-06-16 20:48 UTC*
+*Last updated: 2026-06-17 03:59 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
