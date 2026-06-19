@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes/opengraph-image.png" alt="Fable 5 Opened a 1,800-Line PR on Tabularis in 30 Minutes" width="120" />](https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes) | [Fable 5 Opened a 1,800-Line PR on Tabularis in 30 Minutes](https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes) | 2026-06-10 10:00 |
 | [<img src="https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination/opengraph-image.png" alt="v0.13.1: Signed macOS Builds, a Postgres Explain That Finally Runs, and Pagination That Honors Your OFFSET" width="120" />](https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination) | [v0.13.1: Signed macOS Builds, a Postgres Explain That Finally Runs, and Pagination That Honors Your OFFSET](https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination) | 2026-06-05 11:00 |
 
-*Last updated: 2026-06-19 10:23 UTC*
+*Last updated: 2026-06-19 15:12 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
