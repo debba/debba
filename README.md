@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
-| [<img src="https://tabularis.dev/blog/vercel-open-source-program/opengraph-image.png" alt="Tabularis Joins the Vercel Open Source Program" width="120" />](https://tabularis.dev/blog/vercel-open-source-program) | [Tabularis Joins the Vercel Open Source Program](https://tabularis.dev/blog/vercel-open-source-program) | 2026-06-19 12:00 |
+| [<img src="https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee/opengraph-image.png" alt="Translating Tabularis, the Right Way: Why We Chose Tolgee" width="120" />](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | [Translating Tabularis, the Right Way: Why We Chose Tolgee](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | 2026-06-19 10:00 |
+| [<img src="https://tabularis.dev/blog/vercel-open-source-program/opengraph-image.png" alt="Tabularis Joins the Vercel Open Source Program" width="120" />](https://tabularis.dev/blog/vercel-open-source-program) | [Tabularis Joins the Vercel Open Source Program](https://tabularis.dev/blog/vercel-open-source-program) | 2026-06-19 08:00 |
 | [<img src="https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid/opengraph-image.png" alt="v0.13.2: Notebooks You Can Manage, Query Progress in Real Time, and a Grid That Scrolls" width="120" />](https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid) | [v0.13.2: Notebooks You Can Manage, Query Progress in Real Time, and a Grid That Scrolls](https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid) | 2026-06-16 13:01 |
 | [<img src="https://tabularis.dev/blog/we-vibe-coded-a-database-themed-platformer/opengraph-image.png" alt="We Vibe-Coded a Database-Themed Platformer" width="120" />](https://tabularis.dev/blog/we-vibe-coded-a-database-themed-platformer) | [We Vibe-Coded a Database-Themed Platformer](https://tabularis.dev/blog/we-vibe-coded-a-database-themed-platformer) | 2026-06-12 10:00 |
 | [<img src="https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes/opengraph-image.png" alt="Fable 5 Opened a 1,800-Line PR on Tabularis in 30 Minutes" width="120" />](https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes) | [Fable 5 Opened a 1,800-Line PR on Tabularis in 30 Minutes](https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes) | 2026-06-10 10:00 |
-| [<img src="https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination/opengraph-image.png" alt="v0.13.1: Signed macOS Builds, a Postgres Explain That Finally Runs, and Pagination That Honors Your OFFSET" width="120" />](https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination) | [v0.13.1: Signed macOS Builds, a Postgres Explain That Finally Runs, and Pagination That Honors Your OFFSET](https://tabularis.dev/blog/v0131-signed-macos-postgres-explain-offset-pagination) | 2026-06-05 11:00 |
 
-*Last updated: 2026-06-19 15:12 UTC*
+*Last updated: 2026-06-20 13:55 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
