@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/we-vibe-coded-a-database-themed-platformer/opengraph-image.png" alt="We Vibe-Coded a Database-Themed Platformer" width="120" />](https://tabularis.dev/blog/we-vibe-coded-a-database-themed-platformer) | [We Vibe-Coded a Database-Themed Platformer](https://tabularis.dev/blog/we-vibe-coded-a-database-themed-platformer) | 2026-06-12 10:00 |
 | [<img src="https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes/opengraph-image.png" alt="Fable 5 Opened a 1,800-Line PR on Tabularis in 30 Minutes" width="120" />](https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes) | [Fable 5 Opened a 1,800-Line PR on Tabularis in 30 Minutes](https://tabularis.dev/blog/fable-5-opened-a-1800-line-pr-in-30-minutes) | 2026-06-10 10:00 |
 
-*Last updated: 2026-06-20 19:23 UTC*
+*Last updated: 2026-06-21 04:04 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
