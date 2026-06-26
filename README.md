@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/vercel-open-source-program/opengraph-image.png" alt="Tabularis Joins the Vercel Open Source Program" width="120" />](https://tabularis.dev/blog/vercel-open-source-program) | [Tabularis Joins the Vercel Open Source Program](https://tabularis.dev/blog/vercel-open-source-program) | 2026-06-19 08:00 |
 | [<img src="https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid/opengraph-image.png" alt="v0.13.2: Notebooks You Can Manage, Query Progress in Real Time, and a Grid That Scrolls" width="120" />](https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid) | [v0.13.2: Notebooks You Can Manage, Query Progress in Real Time, and a Grid That Scrolls](https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid) | 2026-06-16 13:01 |
 
-*Last updated: 2026-06-26 14:21 UTC*
+*Last updated: 2026-06-26 19:44 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
