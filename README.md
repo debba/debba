@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/managing-tabularis-secrets-with-1password/opengraph-image.png" alt="Where Tabularis Keeps Its Secrets: Thank You, 1Password" width="120" />](https://tabularis.dev/blog/managing-tabularis-secrets-with-1password) | [Where Tabularis Keeps Its Secrets: Thank You, 1Password](https://tabularis.dev/blog/managing-tabularis-secrets-with-1password) | 2026-06-29 10:00 |
 | [<img src="https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore/opengraph-image.png" alt="v0.13.3: Color Your Results, Theme Your Tabs, and Pick Up Where You Left Off" width="120" />](https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore) | [v0.13.3: Color Your Results, Theme Your Tabs, and Pick Up Where You Left Off](https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore) | 2026-06-24 10:00 |
 | [<img src="https://tabularis.dev/blog/database-drivers-as-external-processes/opengraph-image.png" alt="Database drivers as external processes" width="120" />](https://tabularis.dev/blog/database-drivers-as-external-processes) | [Database drivers as external processes](https://tabularis.dev/blog/database-drivers-as-external-processes) | 2026-06-24 09:00 |
 | [<img src="https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee/opengraph-image.png" alt="Translating Tabularis, the Right Way: Why We Chose Tolgee" width="120" />](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | [Translating Tabularis, the Right Way: Why We Chose Tolgee](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | 2026-06-19 10:00 |
 | [<img src="https://tabularis.dev/blog/vercel-open-source-program/opengraph-image.png" alt="Tabularis Joins the Vercel Open Source Program" width="120" />](https://tabularis.dev/blog/vercel-open-source-program) | [Tabularis Joins the Vercel Open Source Program](https://tabularis.dev/blog/vercel-open-source-program) | 2026-06-19 08:00 |
-| [<img src="https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid/opengraph-image.png" alt="v0.13.2: Notebooks You Can Manage, Query Progress in Real Time, and a Grid That Scrolls" width="120" />](https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid) | [v0.13.2: Notebooks You Can Manage, Query Progress in Real Time, and a Grid That Scrolls](https://tabularis.dev/blog/v0132-managed-notebooks-live-query-progress-faster-grid) | 2026-06-16 13:01 |
 
-*Last updated: 2026-06-29 15:42 UTC*
+*Last updated: 2026-06-29 19:54 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
