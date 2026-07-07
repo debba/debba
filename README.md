@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard/opengraph-image.png" alt="v0.14.0: Stored Routines, Windows of Their Own, and a Guard Against the Unrecoverable" width="120" />](https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard) | [v0.14.0: Stored Routines, Windows of Their Own, and a Guard Against the Unrecoverable](https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard) | 2026-07-07 15:10 |
 | [<img src="https://tabularis.dev/blog/jetbrains-open-source-program/opengraph-image.png" alt="Tabularis Joins the JetBrains Open Source Program" width="120" />](https://tabularis.dev/blog/jetbrains-open-source-program) | [Tabularis Joins the JetBrains Open Source Program](https://tabularis.dev/blog/jetbrains-open-source-program) | 2026-07-06 09:00 |
 | [<img src="https://tabularis.dev/blog/nobody-reads-the-sql-anymore/opengraph-image.png" alt="Nobody Reads the SQL Anymore" width="120" />](https://tabularis.dev/blog/nobody-reads-the-sql-anymore) | [Nobody Reads the SQL Anymore](https://tabularis.dev/blog/nobody-reads-the-sql-anymore) | 2026-07-02 10:33 |
 | [<img src="https://tabularis.dev/blog/v0134-ssh-security-keys-detachable-results-smarter-editor/opengraph-image.png" alt="v0.13.4: Unlock Everything — Hardware Keys, Free-Floating Results, and a Sharper Editor" width="120" />](https://tabularis.dev/blog/v0134-ssh-security-keys-detachable-results-smarter-editor) | [v0.13.4: Unlock Everything — Hardware Keys, Free-Floating Results, and a Sharper Editor](https://tabularis.dev/blog/v0134-ssh-security-keys-detachable-results-smarter-editor) | 2026-06-30 11:00 |
 | [<img src="https://tabularis.dev/blog/managing-tabularis-secrets-with-1password/opengraph-image.png" alt="Where Tabularis Keeps Its Secrets: Thank You, 1Password" width="120" />](https://tabularis.dev/blog/managing-tabularis-secrets-with-1password) | [Where Tabularis Keeps Its Secrets: Thank You, 1Password](https://tabularis.dev/blog/managing-tabularis-secrets-with-1password) | 2026-06-29 10:00 |
-| [<img src="https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore/opengraph-image.png" alt="v0.13.3: Color Your Results, Theme Your Tabs, and Pick Up Where You Left Off" width="120" />](https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore) | [v0.13.3: Color Your Results, Theme Your Tabs, and Pick Up Where You Left Off](https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore) | 2026-06-24 10:00 |
 
-*Last updated: 2026-07-07 09:37 UTC*
+*Last updated: 2026-07-07 14:29 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
