@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard/opengraph-image.png" alt="v0.14.0: Stored Routines, Windows of Their Own, and a Guard Against the Unrecoverable" width="120" />](https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard) | [v0.14.0: Stored Routines, Windows of Their Own, and a Guard Against the Unrecoverable](https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard) | 2026-07-07 15:10 |
 | [<img src="https://tabularis.dev/blog/jetbrains-open-source-program/opengraph-image.png" alt="Tabularis Joins the JetBrains Open Source Program" width="120" />](https://tabularis.dev/blog/jetbrains-open-source-program) | [Tabularis Joins the JetBrains Open Source Program](https://tabularis.dev/blog/jetbrains-open-source-program) | 2026-07-06 09:00 |
 
-*Last updated: 2026-07-14 19:16 UTC*
+*Last updated: 2026-07-15 02:20 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
