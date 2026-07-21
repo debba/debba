@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups/opengraph-image.png" alt="v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves" width="120" />](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | [v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | 2026-07-21 11:00 |
 | [<img src="https://tabularis.dev/blog/optimizing-virtualized-react-grid/opengraph-image.png" alt="Optimizing a Virtualized React Grid: 3,420 Formatter Calls Down to 90" width="120" />](https://tabularis.dev/blog/optimizing-virtualized-react-grid) | [Optimizing a Virtualized React Grid: 3,420 Formatter Calls Down to 90](https://tabularis.dev/blog/optimizing-virtualized-react-grid) | 2026-07-14 17:43 |
 | [<img src="https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports/opengraph-image.png" alt="v0.15.0: Bring Your Connections With You — Imports, Nested Groups, and Encrypted Exports" width="120" />](https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports) | [v0.15.0: Bring Your Connections With You — Imports, Nested Groups, and Encrypted Exports](https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports) | 2026-07-14 11:00 |
 | [<img src="https://tabularis.dev/blog/signpath-code-signing/opengraph-image.png" alt="Tabularis Joins the SignPath.io Open Source Program" width="120" />](https://tabularis.dev/blog/signpath-code-signing) | [Tabularis Joins the SignPath.io Open Source Program](https://tabularis.dev/blog/signpath-code-signing) | 2026-07-10 09:00 |
 | [<img src="https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard/opengraph-image.png" alt="v0.14.0: Stored Routines, Windows of Their Own, and a Guard Against the Unrecoverable" width="120" />](https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard) | [v0.14.0: Stored Routines, Windows of Their Own, and a Guard Against the Unrecoverable](https://tabularis.dev/blog/v0140-stored-routines-connection-windows-destructive-query-guard) | 2026-07-07 15:10 |
-| [<img src="https://tabularis.dev/blog/jetbrains-open-source-program/opengraph-image.png" alt="Tabularis Joins the JetBrains Open Source Program" width="120" />](https://tabularis.dev/blog/jetbrains-open-source-program) | [Tabularis Joins the JetBrains Open Source Program](https://tabularis.dev/blog/jetbrains-open-source-program) | 2026-07-06 09:00 |
 
-*Last updated: 2026-07-21 08:24 UTC*
+*Last updated: 2026-07-21 13:44 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
