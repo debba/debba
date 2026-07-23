@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports/opengraph-image.png" alt="v0.15.0: Bring Your Connections With You — Imports, Nested Groups, and Encrypted Exports" width="120" />](https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports) | [v0.15.0: Bring Your Connections With You — Imports, Nested Groups, and Encrypted Exports](https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports) | 2026-07-14 11:00 |
 | [<img src="https://tabularis.dev/blog/signpath-code-signing/opengraph-image.png" alt="Tabularis Joins the SignPath.io Open Source Program" width="120" />](https://tabularis.dev/blog/signpath-code-signing) | [Tabularis Joins the SignPath.io Open Source Program](https://tabularis.dev/blog/signpath-code-signing) | 2026-07-10 09:00 |
 
-*Last updated: 2026-07-23 02:34 UTC*
+*Last updated: 2026-07-23 08:26 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
