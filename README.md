@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/optimizing-virtualized-react-grid/opengraph-image.png" alt="Optimizing a Virtualized React Grid: 3,420 Formatter Calls Down to 90" width="120" />](https://tabularis.dev/blog/optimizing-virtualized-react-grid) | [Optimizing a Virtualized React Grid: 3,420 Formatter Calls Down to 90](https://tabularis.dev/blog/optimizing-virtualized-react-grid) | 2026-07-14 17:43 |
 | [<img src="https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports/opengraph-image.png" alt="v0.15.0: Bring Your Connections With You — Imports, Nested Groups, and Encrypted Exports" width="120" />](https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports) | [v0.15.0: Bring Your Connections With You — Imports, Nested Groups, and Encrypted Exports](https://tabularis.dev/blog/v0150-import-connections-nested-groups-encrypted-exports) | 2026-07-14 11:00 |
 
-*Last updated: 2026-07-27 14:29 UTC*
+*Last updated: 2026-07-27 19:24 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
