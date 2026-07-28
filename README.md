@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups/opengraph-image.png" alt="v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves" width="120" />](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | [v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | 2026-07-21 11:00 |
 | [<img src="https://tabularis.dev/blog/optimizing-virtualized-react-grid/opengraph-image.png" alt="Optimizing a Virtualized React Grid: 3,420 Formatter Calls Down to 90" width="120" />](https://tabularis.dev/blog/optimizing-virtualized-react-grid) | [Optimizing a Virtualized React Grid: 3,420 Formatter Calls Down to 90](https://tabularis.dev/blog/optimizing-virtualized-react-grid) | 2026-07-14 17:43 |
 
-*Last updated: 2026-07-28 14:02 UTC*
+*Last updated: 2026-07-28 19:19 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
