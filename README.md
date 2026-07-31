@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/why-tabularis-runs-on-tauri/opengraph-image.png" alt="Why I chose Tauri, and what it cost me" width="120" />](https://tabularis.dev/blog/why-tabularis-runs-on-tauri) | [Why I chose Tauri, and what it cost me](https://tabularis.dev/blog/why-tabularis-runs-on-tauri) | 2026-07-22 09:40 |
 | [<img src="https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups/opengraph-image.png" alt="v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves" width="120" />](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | [v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | 2026-07-21 11:00 |
 
-*Last updated: 2026-07-31 14:01 UTC*
+*Last updated: 2026-07-31 19:21 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
