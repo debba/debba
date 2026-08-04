@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection/opengraph-image.png" alt="v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select" width="120" />](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | [v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | 2026-08-03 18:00 |
 | [<img src="https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client/opengraph-image.png" alt="The Rust stack inside a ~15 MB installer" width="120" />](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | [The Rust stack inside a ~15 MB installer](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | 2026-07-30 08:52 |
 | [<img src="https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting/opengraph-image.png" alt="v0.17.0: Visual EXPLAIN That Points at the Problem, a Row Editor That Follows You, and SQL That Formats Itself" width="120" />](https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting) | [v0.17.0: Visual EXPLAIN That Points at the Problem, a Row Editor That Follows You, and SQL That Formats Itself](https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting) | 2026-07-27 15:00 |
 | [<img src="https://tabularis.dev/blog/extracting-visual-explain/opengraph-image.png" alt="Visual EXPLAIN beyond the app: one engine, multiple hosts" width="120" />](https://tabularis.dev/blog/extracting-visual-explain) | [Visual EXPLAIN beyond the app: one engine, multiple hosts](https://tabularis.dev/blog/extracting-visual-explain) | 2026-07-27 11:48 |
 | [<img src="https://tabularis.dev/blog/why-tabularis-runs-on-tauri/opengraph-image.png" alt="Why I chose Tauri, and what it cost me" width="120" />](https://tabularis.dev/blog/why-tabularis-runs-on-tauri) | [Why I chose Tauri, and what it cost me](https://tabularis.dev/blog/why-tabularis-runs-on-tauri) | 2026-07-22 09:40 |
-| [<img src="https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups/opengraph-image.png" alt="v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves" width="120" />](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | [v0.16.0: A Hosted Plugin Registry, Kubernetes Your Way, and Backups That Encrypt Themselves](https://tabularis.dev/blog/v0160-hosted-plugin-registry-k8s-overrides-encrypted-backups) | 2026-07-21 11:00 |
 
-*Last updated: 2026-08-03 19:27 UTC*
+*Last updated: 2026-08-04 02:22 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
