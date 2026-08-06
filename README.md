@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/extracting-visual-explain/opengraph-image.png" alt="Visual EXPLAIN beyond the app: one engine, multiple hosts" width="120" />](https://tabularis.dev/blog/extracting-visual-explain) | [Visual EXPLAIN beyond the app: one engine, multiple hosts](https://tabularis.dev/blog/extracting-visual-explain) | 2026-07-27 11:48 |
 | [<img src="https://tabularis.dev/blog/why-tabularis-runs-on-tauri/opengraph-image.png" alt="Why I chose Tauri, and what it cost me" width="120" />](https://tabularis.dev/blog/why-tabularis-runs-on-tauri) | [Why I chose Tauri, and what it cost me](https://tabularis.dev/blog/why-tabularis-runs-on-tauri) | 2026-07-22 09:40 |
 
-*Last updated: 2026-08-06 02:24 UTC*
+*Last updated: 2026-08-06 08:32 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
