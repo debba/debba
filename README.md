@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/one-sql-script-multiple-database-connections/opengraph-image.png" alt="We Executed One SQL Script Across Multiple Database Connections" width="120" />](https://tabularis.dev/blog/one-sql-script-multiple-database-connections) | [We Executed One SQL Script Across Multiple Database Connections](https://tabularis.dev/blog/one-sql-script-multiple-database-connections) | 2026-08-12 10:00 |
 | [<img src="https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing/opengraph-image.png" alt="v0.19.0: Connections That Know They're Production, Columns That Keep Secrets, and Tables Without a Primary Key You Can Finally Edit" width="120" />](https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing) | [v0.19.0: Connections That Know They're Production, Columns That Keep Secrets, and Tables Without a Primary Key You Can Finally Edit](https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing) | 2026-08-10 11:00 |
 | [<img src="https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper/opengraph-image.png" alt="Installing Tabularis from the AUR, the Careful Way" width="120" />](https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper) | [Installing Tabularis from the AUR, the Careful Way](https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper) | 2026-08-03 19:00 |
 | [<img src="https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection/opengraph-image.png" alt="v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select" width="120" />](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | [v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | 2026-08-03 18:00 |
 | [<img src="https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client/opengraph-image.png" alt="The Rust stack inside a ~15 MB installer" width="120" />](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | [The Rust stack inside a ~15 MB installer](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | 2026-07-30 08:52 |
-| [<img src="https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting/opengraph-image.png" alt="v0.17.0: Visual EXPLAIN That Points at the Problem, a Row Editor That Follows You, and SQL That Formats Itself" width="120" />](https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting) | [v0.17.0: Visual EXPLAIN That Points at the Problem, a Row Editor That Follows You, and SQL That Formats Itself](https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting) | 2026-07-27 15:00 |
 
-*Last updated: 2026-08-12 07:20 UTC*
+*Last updated: 2026-08-12 13:03 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
