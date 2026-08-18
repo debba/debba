@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection/opengraph-image.png" alt="v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select" width="120" />](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | [v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | 2026-08-03 18:00 |
 | [<img src="https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client/opengraph-image.png" alt="The Rust stack inside a ~15 MB installer" width="120" />](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | [The Rust stack inside a ~15 MB installer](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | 2026-07-30 08:52 |
 
-*Last updated: 2026-08-17 18:35 UTC*
+*Last updated: 2026-08-18 01:06 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
