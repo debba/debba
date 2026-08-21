@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper/opengraph-image.png" alt="Installing Tabularis from the AUR, the Careful Way" width="120" />](https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper) | [Installing Tabularis from the AUR, the Careful Way](https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper) | 2026-08-03 19:00 |
 | [<img src="https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection/opengraph-image.png" alt="v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select" width="120" />](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | [v0.18.0: Users and Privileges, a Connection Test That Tells You Where It Failed, and a Data Grid You Can Actually Select](https://tabularis.dev/blog/v0180-user-privileges-connection-diagnostics-grid-selection) | 2026-08-03 18:00 |
 
-*Last updated: 2026-08-20 18:35 UTC*
+*Last updated: 2026-08-21 01:10 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
