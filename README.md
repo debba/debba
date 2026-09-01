@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/one-sql-script-multiple-database-connections/opengraph-image.png" alt="We Accidentally Ran One SQL Script Across Multiple Database Connections" width="120" />](https://tabularis.dev/blog/one-sql-script-multiple-database-connections) | [We Accidentally Ran One SQL Script Across Multiple Database Connections](https://tabularis.dev/blog/one-sql-script-multiple-database-connections) | 2026-08-12 10:00 |
 | [<img src="https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing/opengraph-image.png" alt="v0.19.0: Connections That Know They're Production, Columns That Keep Secrets, and Tables Without a Primary Key You Can Finally Edit" width="120" />](https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing) | [v0.19.0: Connections That Know They're Production, Columns That Keep Secrets, and Tables Without a Primary Key You Can Finally Edit](https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing) | 2026-08-10 11:00 |
 
-*Last updated: 2026-09-01 03:37 UTC*
+*Last updated: 2026-09-01 11:07 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
