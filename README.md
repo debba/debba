@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0200-command-palette-grid-paste-postgres-plugin/opengraph-image.png" alt="v0.20.0: A Command Palette That Knows Which Pane You're In, Paste That Works Like a Spreadsheet, and PostgreSQL Moves Out of the Core" width="120" />](https://tabularis.dev/blog/v0200-command-palette-grid-paste-postgres-plugin) | [v0.20.0: A Command Palette That Knows Which Pane You're In, Paste That Works Like a Spreadsheet, and PostgreSQL Moves Out of the Core](https://tabularis.dev/blog/v0200-command-palette-grid-paste-postgres-plugin) | 2026-08-17 18:00 |
 | [<img src="https://tabularis.dev/blog/one-sql-script-multiple-database-connections/opengraph-image.png" alt="We Accidentally Ran One SQL Script Across Multiple Database Connections" width="120" />](https://tabularis.dev/blog/one-sql-script-multiple-database-connections) | [We Accidentally Ran One SQL Script Across Multiple Database Connections](https://tabularis.dev/blog/one-sql-script-multiple-database-connections) | 2026-08-12 10:00 |
 
-*Last updated: 2026-09-01 20:33 UTC*
+*Last updated: 2026-09-02 02:56 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
