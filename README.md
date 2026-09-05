@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/code-generation-was-only-the-beginning-software-development-is-becoming-a-loop/opengraph-image.png" alt="Code generation was only the beginning. Software development is becoming a loop" width="120" />](https://tabularis.dev/blog/code-generation-was-only-the-beginning-software-development-is-becoming-a-loop) | [Code generation was only the beginning. Software development is becoming a loop](https://tabularis.dev/blog/code-generation-was-only-the-beginning-software-development-is-becoming-a-loop) | 2026-08-23 13:32 |
 | [<img src="https://tabularis.dev/blog/v0200-command-palette-grid-paste-postgres-plugin/opengraph-image.png" alt="v0.20.0: A Command Palette That Knows Which Pane You're In, Paste That Works Like a Spreadsheet, and PostgreSQL Moves Out of the Core" width="120" />](https://tabularis.dev/blog/v0200-command-palette-grid-paste-postgres-plugin) | [v0.20.0: A Command Palette That Knows Which Pane You're In, Paste That Works Like a Spreadsheet, and PostgreSQL Moves Out of the Core](https://tabularis.dev/blog/v0200-command-palette-grid-paste-postgres-plugin) | 2026-08-17 18:00 |
 
-*Last updated: 2026-09-05 02:59 UTC*
+*Last updated: 2026-09-05 09:58 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
