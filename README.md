@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0210-sql-folding-per-tab-page-size-postgres-mtls/opengraph-image.png" alt="v0.21.0: Fold Your SQL, Pick Your Page Size Per Tab, and Postgres Client Certificates That Actually Get Sent" width="120" />](https://tabularis.dev/blog/v0210-sql-folding-per-tab-page-size-postgres-mtls) | [v0.21.0: Fold Your SQL, Pick Your Page Size Per Tab, and Postgres Client Certificates That Actually Get Sent](https://tabularis.dev/blog/v0210-sql-folding-per-tab-page-size-postgres-mtls) | 2026-08-25 18:00 |
 | [<img src="https://tabularis.dev/blog/code-generation-was-only-the-beginning-software-development-is-becoming-a-loop/opengraph-image.png" alt="Code generation was only the beginning. Software development is becoming a loop" width="120" />](https://tabularis.dev/blog/code-generation-was-only-the-beginning-software-development-is-becoming-a-loop) | [Code generation was only the beginning. Software development is becoming a loop](https://tabularis.dev/blog/code-generation-was-only-the-beginning-software-development-is-becoming-a-loop) | 2026-08-23 13:32 |
 
-*Last updated: 2026-09-10 20:25 UTC*
+*Last updated: 2026-09-11 03:03 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
