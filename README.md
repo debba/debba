@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0220-follow-system-theme-grid-selection-shortcuts-tiling-decorations/opengraph-image.png" alt="v0.22.0: Themes That Follow Your OS, Spreadsheet Selection in the Grid, and a Titlebar That Gets Out of the Way on Tiling Window Managers" width="120" />](https://tabularis.dev/blog/v0220-follow-system-theme-grid-selection-shortcuts-tiling-decorations) | [v0.22.0: Themes That Follow Your OS, Spreadsheet Selection in the Grid, and a Titlebar That Gets Out of the Way on Tiling Window Managers](https://tabularis.dev/blog/v0220-follow-system-theme-grid-selection-shortcuts-tiling-decorations) | 2026-09-01 21:40 |
 | [<img src="https://tabularis.dev/blog/v0210-sql-folding-per-tab-page-size-postgres-mtls/opengraph-image.png" alt="v0.21.0: Fold Your SQL, Pick Your Page Size Per Tab, and Postgres Client Certificates That Actually Get Sent" width="120" />](https://tabularis.dev/blog/v0210-sql-folding-per-tab-page-size-postgres-mtls) | [v0.21.0: Fold Your SQL, Pick Your Page Size Per Tab, and Postgres Client Certificates That Actually Get Sent](https://tabularis.dev/blog/v0210-sql-folding-per-tab-page-size-postgres-mtls) | 2026-08-25 18:00 |
 
-*Last updated: 2026-09-17 10:58 UTC*
+*Last updated: 2026-09-17 16:15 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
