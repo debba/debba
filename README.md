@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/how-plugins-can-now-inject-their-own-parsers-into-visual-explain/opengraph-image.png" alt="How plugins can now inject their own parsers into Visual EXPLAIN" width="120" />](https://tabularis.dev/blog/how-plugins-can-now-inject-their-own-parsers-into-visual-explain) | [How plugins can now inject their own parsers into Visual EXPLAIN](https://tabularis.dev/blog/how-plugins-can-now-inject-their-own-parsers-into-visual-explain) | 2026-09-04 18:30 |
 | [<img src="https://tabularis.dev/blog/v0220-follow-system-theme-grid-selection-shortcuts-tiling-decorations/opengraph-image.png" alt="v0.22.0: Themes That Follow Your OS, Spreadsheet Selection in the Grid, and a Titlebar That Gets Out of the Way on Tiling Window Managers" width="120" />](https://tabularis.dev/blog/v0220-follow-system-theme-grid-selection-shortcuts-tiling-decorations) | [v0.22.0: Themes That Follow Your OS, Spreadsheet Selection in the Grid, and a Titlebar That Gets Out of the Way on Tiling Window Managers](https://tabularis.dev/blog/v0220-follow-system-theme-grid-selection-shortcuts-tiling-decorations) | 2026-09-01 21:40 |
 
-*Last updated: 2026-09-21 21:42 UTC*
+*Last updated: 2026-09-22 03:22 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
