@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts/opengraph-image.png" alt="v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results" width="120" />](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | [v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | 2026-09-16 10:00 |
 | [<img src="https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location/opengraph-image.png" alt="v0.23.0: The PostgreSQL Plugin Takes Over From the Built-in Driver, SQL Files Open in Editor Tabs, and a Data Folder You Can Sync" width="120" />](https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location) | [v0.23.0: The PostgreSQL Plugin Takes Over From the Built-in Driver, SQL Files Open in Editor Tabs, and a Data Folder You Can Sync](https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location) | 2026-09-10 10:30 |
 
-*Last updated: 2026-10-02 21:49 UTC*
+*Last updated: 2026-10-03 03:50 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
