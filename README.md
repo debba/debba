@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/blog/tabularis-dev-rebuild-story/opengraph-image.png" alt="When the Project Outgrows the Site: The tabularis.dev Rebuild Story" width="120" />](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | [When the Project Outgrows the Site: The tabularis.dev Rebuild Story](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | 2026-10-05 14:00 |
 | [<img src="https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes/opengraph-image.png" alt="v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel" width="120" />](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | [v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | 2026-10-01 10:00 |
 | [<img src="https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon/opengraph-image.png" alt="v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements" width="120" />](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | [v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | 2026-09-22 10:00 |
 | [<img src="https://tabularis.dev/blog/how-to-grow-an-open-source-project/opengraph-image.png" alt="How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars" width="120" />](https://tabularis.dev/blog/how-to-grow-an-open-source-project) | [How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars](https://tabularis.dev/blog/how-to-grow-an-open-source-project) | 2026-09-18 12:00 |
 | [<img src="https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts/opengraph-image.png" alt="v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results" width="120" />](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | [v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | 2026-09-16 10:00 |
-| [<img src="https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location/opengraph-image.png" alt="v0.23.0: The PostgreSQL Plugin Takes Over From the Built-in Driver, SQL Files Open in Editor Tabs, and a Data Folder You Can Sync" width="120" />](https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location) | [v0.23.0: The PostgreSQL Plugin Takes Over From the Built-in Driver, SQL Files Open in Editor Tabs, and a Data Folder You Can Sync](https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location) | 2026-09-10 10:30 |
 
-*Last updated: 2026-10-05 04:07 UTC*
+*Last updated: 2026-10-05 13:37 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
