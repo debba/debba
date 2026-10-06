@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/blog/how-to-grow-an-open-source-project/opengraph-image.png" alt="How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars" width="120" />](https://tabularis.dev/blog/how-to-grow-an-open-source-project) | [How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars](https://tabularis.dev/blog/how-to-grow-an-open-source-project) | 2026-09-18 12:00 |
 | [<img src="https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts/opengraph-image.png" alt="v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results" width="120" />](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | [v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | 2026-09-16 10:00 |
 
-*Last updated: 2026-10-05 23:44 UTC*
+*Last updated: 2026-10-06 04:56 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
