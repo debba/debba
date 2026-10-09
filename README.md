@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes.png" alt="v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel" width="120" />](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | [v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | 2026-10-01 10:00 |
 | [<img src="https://tabularis.dev/og/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon.png" alt="v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements" width="120" />](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | [v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | 2026-09-22 10:00 |
 
-*Last updated: 2026-10-08 22:54 UTC*
+*Last updated: 2026-10-09 04:37 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
