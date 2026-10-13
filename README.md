@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/og/blog/v0280-structured-filters-auto-refresh-read-only-mcp.png" alt="v0.28.0: A Filter Panel You Can Click Through, Tables That Refresh Themselves, and a Read-Only MCP the Database Enforces" width="120" />](https://tabularis.dev/blog/v0280-structured-filters-auto-refresh-read-only-mcp) | [v0.28.0: A Filter Panel You Can Click Through, Tables That Refresh Themselves, and a Read-Only MCP the Database Enforces](https://tabularis.dev/blog/v0280-structured-filters-auto-refresh-read-only-mcp) | 2026-10-13 10:00 |
 | [<img src="https://tabularis.dev/og/blog/v0270-cell-value-filter-stable-columns-tsql-batches.png" alt="v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch" width="120" />](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | [v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | 2026-10-08 13:25 |
 | [<img src="https://tabularis.dev/og/blog/tabularis-joins-claude-startups.png" alt="Tabularis Joins Claude for Startups" width="120" />](https://tabularis.dev/blog/tabularis-joins-claude-startups) | [Tabularis Joins Claude for Startups](https://tabularis.dev/blog/tabularis-joins-claude-startups) | 2026-10-08 09:53 |
 | [<img src="https://tabularis.dev/og/blog/tabularis-dev-rebuild-story.png" alt="When the Project Outgrows the Site: The tabularis.dev Rebuild Story" width="120" />](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | [When the Project Outgrows the Site: The tabularis.dev Rebuild Story](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | 2026-10-05 14:00 |
 | [<img src="https://tabularis.dev/og/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes.png" alt="v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel" width="120" />](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | [v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | 2026-10-01 10:00 |
-| [<img src="https://tabularis.dev/og/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon.png" alt="v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements" width="120" />](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | [v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | 2026-09-22 10:00 |
 
-*Last updated: 2026-10-13 00:09 UTC*
+*Last updated: 2026-10-13 13:35 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
