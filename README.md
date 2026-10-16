@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/tabularis-joins-claude-startups.png" alt="Tabularis Joins Claude for Startups" width="120" />](https://tabularis.dev/blog/tabularis-joins-claude-startups) | [Tabularis Joins Claude for Startups](https://tabularis.dev/blog/tabularis-joins-claude-startups) | 2026-10-08 09:53 |
 | [<img src="https://tabularis.dev/og/blog/tabularis-dev-rebuild-story.png" alt="When the Project Outgrows the Site: The tabularis.dev Rebuild Story" width="120" />](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | [When the Project Outgrows the Site: The tabularis.dev Rebuild Story](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | 2026-10-05 14:00 |
 
-*Last updated: 2026-10-16 16:05 UTC*
+*Last updated: 2026-10-16 20:30 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
