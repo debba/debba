@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/v0270-cell-value-filter-stable-columns-tsql-batches.png" alt="v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch" width="120" />](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | [v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | 2026-10-08 13:25 |
 | [<img src="https://tabularis.dev/og/blog/tabularis-joins-claude-startups.png" alt="Tabularis Joins Claude for Startups" width="120" />](https://tabularis.dev/blog/tabularis-joins-claude-startups) | [Tabularis Joins Claude for Startups](https://tabularis.dev/blog/tabularis-joins-claude-startups) | 2026-10-08 09:53 |
 
-*Last updated: 2026-10-21 16:37 UTC*
+*Last updated: 2026-10-21 21:15 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
