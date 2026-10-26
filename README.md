@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/og/blog/v0300-tabularis-web-result-charts-scheduled-backups.png" alt="v0.30.0: Tabularis in the Browser, Charts for Query Results, and Scheduled Database Backups" width="120" />](https://tabularis.dev/blog/v0300-tabularis-web-result-charts-scheduled-backups) | [v0.30.0: Tabularis in the Browser, Charts for Query Results, and Scheduled Database Backups](https://tabularis.dev/blog/v0300-tabularis-web-result-charts-scheduled-backups) | 2026-10-26 18:00 |
 | [<img src="https://tabularis.dev/og/blog/v0290-chatgpt-sign-in-postgres-multi-database-file-import.png" alt="v0.29.0: Sign In with ChatGPT, Every PostgreSQL Database on One Connection, and Imports from Files" width="120" />](https://tabularis.dev/blog/v0290-chatgpt-sign-in-postgres-multi-database-file-import) | [v0.29.0: Sign In with ChatGPT, Every PostgreSQL Database on One Connection, and Imports from Files](https://tabularis.dev/blog/v0290-chatgpt-sign-in-postgres-multi-database-file-import) | 2026-10-20 16:00 |
 | [<img src="https://tabularis.dev/og/blog/one-week-of-tabularis-121-prs-27-new-contributors.png" alt="The Week Tabularis Stopped Being a Side Project: 121 PRs, 27 New Contributors" width="120" />](https://tabularis.dev/blog/one-week-of-tabularis-121-prs-27-new-contributors) | [The Week Tabularis Stopped Being a Side Project: 121 PRs, 27 New Contributors](https://tabularis.dev/blog/one-week-of-tabularis-121-prs-27-new-contributors) | 2026-10-16 14:30 |
 | [<img src="https://tabularis.dev/og/blog/v0280-structured-filters-auto-refresh-read-only-mcp.png" alt="v0.28.0: A Filter Panel You Can Click Through, Tables That Refresh Themselves, and a Read-Only MCP the Database Enforces" width="120" />](https://tabularis.dev/blog/v0280-structured-filters-auto-refresh-read-only-mcp) | [v0.28.0: A Filter Panel You Can Click Through, Tables That Refresh Themselves, and a Read-Only MCP the Database Enforces](https://tabularis.dev/blog/v0280-structured-filters-auto-refresh-read-only-mcp) | 2026-10-13 10:00 |
 | [<img src="https://tabularis.dev/og/blog/v0270-cell-value-filter-stable-columns-tsql-batches.png" alt="v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch" width="120" />](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | [v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | 2026-10-08 13:25 |
-| [<img src="https://tabularis.dev/og/blog/tabularis-joins-claude-startups.png" alt="Tabularis Joins Claude for Startups" width="120" />](https://tabularis.dev/blog/tabularis-joins-claude-startups) | [Tabularis Joins Claude for Startups](https://tabularis.dev/blog/tabularis-joins-claude-startups) | 2026-10-08 09:53 |
 
-*Last updated: 2026-10-26 12:16 UTC*
+*Last updated: 2026-10-26 22:17 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
