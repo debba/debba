@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/v0280-structured-filters-auto-refresh-read-only-mcp.png" alt="v0.28.0: A Filter Panel You Can Click Through, Tables That Refresh Themselves, and a Read-Only MCP the Database Enforces" width="120" />](https://tabularis.dev/blog/v0280-structured-filters-auto-refresh-read-only-mcp) | [v0.28.0: A Filter Panel You Can Click Through, Tables That Refresh Themselves, and a Read-Only MCP the Database Enforces](https://tabularis.dev/blog/v0280-structured-filters-auto-refresh-read-only-mcp) | 2026-10-13 10:00 |
 | [<img src="https://tabularis.dev/og/blog/v0270-cell-value-filter-stable-columns-tsql-batches.png" alt="v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch" width="120" />](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | [v0.27.0: Filter From a Cell, Columns That Hold Still, and T-SQL That Runs as a Batch](https://tabularis.dev/blog/v0270-cell-value-filter-stable-columns-tsql-batches) | 2026-10-08 13:25 |
 
-*Last updated: 2026-10-27 11:36 UTC*
+*Last updated: 2026-10-27 17:28 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
