@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/v0300-tabularis-web-result-charts-scheduled-backups.png" alt="v0.30.0: Tabularis in the Browser, Charts for Query Results, and Scheduled Database Backups" width="120" />](https://tabularis.dev/blog/v0300-tabularis-web-result-charts-scheduled-backups) | [v0.30.0: Tabularis in the Browser, Charts for Query Results, and Scheduled Database Backups](https://tabularis.dev/blog/v0300-tabularis-web-result-charts-scheduled-backups) | 2026-10-26 18:00 |
 | [<img src="https://tabularis.dev/og/blog/v0290-chatgpt-sign-in-postgres-multi-database-file-import.png" alt="v0.29.0: Sign In with ChatGPT, Every PostgreSQL Database on One Connection, and Imports from Files" width="120" />](https://tabularis.dev/blog/v0290-chatgpt-sign-in-postgres-multi-database-file-import) | [v0.29.0: Sign In with ChatGPT, Every PostgreSQL Database on One Connection, and Imports from Files](https://tabularis.dev/blog/v0290-chatgpt-sign-in-postgres-multi-database-file-import) | 2026-10-20 16:00 |
 
-*Last updated: 2026-11-03 13:38 UTC*
+*Last updated: 2026-11-03 22:54 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
