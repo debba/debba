@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/og/blog/v0320-table-transfer-sql-snippets-plan-comparison.png" alt="v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons" width="120" />](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | [v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | 2026-11-09 13:12 |
 | [<img src="https://tabularis.dev/og/blog/zeny-partnership-fewer-bots.png" alt="Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord" width="120" />](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | [Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | 2026-11-07 12:00 |
 | [<img src="https://tabularis.dev/og/blog/v0310-transposed-grid-saved-query-history-connection-import.png" alt="v0.31.0: Transposed Results, Saved Query History, and More Connection Imports" width="120" />](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | [v0.31.0: Transposed Results, Saved Query History, and More Connection Imports](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | 2026-11-03 10:05 |
 | [<img src="https://tabularis.dev/og/blog/blacksmith-ci-sponsorship.png" alt="Tabularis CI, Now Powered by Blacksmith" width="120" />](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | [Tabularis CI, Now Powered by Blacksmith](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | 2026-10-29 22:10 |
 | [<img src="https://tabularis.dev/og/blog/neon-open-source-program.png" alt="Tabularis Joins the Neon Open Source Program" width="120" />](https://tabularis.dev/blog/neon-open-source-program) | [Tabularis Joins the Neon Open Source Program](https://tabularis.dev/blog/neon-open-source-program) | 2026-10-29 07:15 |
-| [<img src="https://tabularis.dev/og/blog/v0300-tabularis-web-result-charts-scheduled-backups.png" alt="v0.30.0: Tabularis in the Browser, Charts for Query Results, and Scheduled Database Backups" width="120" />](https://tabularis.dev/blog/v0300-tabularis-web-result-charts-scheduled-backups) | [v0.30.0: Tabularis in the Browser, Charts for Query Results, and Scheduled Database Backups](https://tabularis.dev/blog/v0300-tabularis-web-result-charts-scheduled-backups) | 2026-10-26 18:00 |
 
-*Last updated: 2026-11-09 15:12 UTC*
+*Last updated: 2026-11-10 01:11 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
