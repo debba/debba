@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/blacksmith-ci-sponsorship.png" alt="Tabularis CI, Now Powered by Blacksmith" width="120" />](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | [Tabularis CI, Now Powered by Blacksmith](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | 2026-10-29 22:10 |
 | [<img src="https://tabularis.dev/og/blog/neon-open-source-program.png" alt="Tabularis Joins the Neon Open Source Program" width="120" />](https://tabularis.dev/blog/neon-open-source-program) | [Tabularis Joins the Neon Open Source Program](https://tabularis.dev/blog/neon-open-source-program) | 2026-10-29 07:15 |
 
-*Last updated: 2026-11-10 01:11 UTC*
+*Last updated: 2026-11-10 14:21 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
