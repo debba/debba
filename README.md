@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/og/blog/neon-plugin-workspaces.png" alt="Using Neon in Tabularis" width="120" />](https://tabularis.dev/blog/neon-plugin-workspaces) | [Using Neon in Tabularis](https://tabularis.dev/blog/neon-plugin-workspaces) | 2026-11-16 19:00 |
 | [<img src="https://tabularis.dev/og/blog/v0330-open-data-files-ai-completion-read-only-connections.png" alt="v0.33.0: Open Data Files, AI Completion, and Read-Only Connections" width="120" />](https://tabularis.dev/blog/v0330-open-data-files-ai-completion-read-only-connections) | [v0.33.0: Open Data Files, AI Completion, and Read-Only Connections](https://tabularis.dev/blog/v0330-open-data-files-ai-completion-read-only-connections) | 2026-11-16 09:30 |
 | [<img src="https://tabularis.dev/og/blog/v0320-table-transfer-sql-snippets-plan-comparison.png" alt="v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons" width="120" />](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | [v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | 2026-11-09 13:12 |
 | [<img src="https://tabularis.dev/og/blog/zeny-partnership-fewer-bots.png" alt="Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord" width="120" />](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | [Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | 2026-11-07 12:00 |
 | [<img src="https://tabularis.dev/og/blog/v0310-transposed-grid-saved-query-history-connection-import.png" alt="v0.31.0: Transposed Results, Saved Query History, and More Connection Imports" width="120" />](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | [v0.31.0: Transposed Results, Saved Query History, and More Connection Imports](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | 2026-11-03 10:05 |
-| [<img src="https://tabularis.dev/og/blog/blacksmith-ci-sponsorship.png" alt="Tabularis CI, Now Powered by Blacksmith" width="120" />](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | [Tabularis CI, Now Powered by Blacksmith](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | 2026-10-29 22:10 |
 
-*Last updated: 2026-11-17 15:29 UTC*
+*Last updated: 2026-11-18 00:32 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
