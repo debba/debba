@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/zeny-partnership-fewer-bots.png" alt="Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord" width="120" />](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | [Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | 2026-11-07 12:00 |
 | [<img src="https://tabularis.dev/og/blog/v0310-transposed-grid-saved-query-history-connection-import.png" alt="v0.31.0: Transposed Results, Saved Query History, and More Connection Imports" width="120" />](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | [v0.31.0: Transposed Results, Saved Query History, and More Connection Imports](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | 2026-11-03 10:05 |
 
-*Last updated: 2026-11-18 00:32 UTC*
+*Last updated: 2026-11-18 15:07 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
