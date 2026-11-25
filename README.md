@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/v0320-table-transfer-sql-snippets-plan-comparison.png" alt="v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons" width="120" />](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | [v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | 2026-11-09 13:12 |
 | [<img src="https://tabularis.dev/og/blog/zeny-partnership-fewer-bots.png" alt="Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord" width="120" />](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | [Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | 2026-11-07 12:00 |
 
-*Last updated: 2026-11-25 01:54 UTC*
+*Last updated: 2026-11-25 16:47 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
