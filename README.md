@@ -47,13 +47,13 @@ Andrea.setInfo({
 
 | Preview | Title | Published |
 |---|---|---|
+| [<img src="https://tabularis.dev/og/blog/v0340-notebook-reports-credential-profiles-schema-notes.png" alt="v0.34.0: Notebook Reports, Credential Profiles, and Schema Notes" width="120" />](https://tabularis.dev/blog/v0340-notebook-reports-credential-profiles-schema-notes) | [v0.34.0: Notebook Reports, Credential Profiles, and Schema Notes](https://tabularis.dev/blog/v0340-notebook-reports-credential-profiles-schema-notes) | 2026-11-26 18:15 |
 | [<img src="https://tabularis.dev/og/blog/vice-city-launch-day.png" alt="Still working on GTA VI day?" width="120" />](https://tabularis.dev/blog/vice-city-launch-day) | [Still working on GTA VI day?](https://tabularis.dev/blog/vice-city-launch-day) | 2026-11-19 11:05 |
 | [<img src="https://tabularis.dev/og/blog/neon-plugin-workspaces.png" alt="Using Neon in Tabularis" width="120" />](https://tabularis.dev/blog/neon-plugin-workspaces) | [Using Neon in Tabularis](https://tabularis.dev/blog/neon-plugin-workspaces) | 2026-11-16 19:00 |
 | [<img src="https://tabularis.dev/og/blog/v0330-open-data-files-ai-completion-read-only-connections.png" alt="v0.33.0: Open Data Files, AI Completion, and Read-Only Connections" width="120" />](https://tabularis.dev/blog/v0330-open-data-files-ai-completion-read-only-connections) | [v0.33.0: Open Data Files, AI Completion, and Read-Only Connections](https://tabularis.dev/blog/v0330-open-data-files-ai-completion-read-only-connections) | 2026-11-16 09:30 |
 | [<img src="https://tabularis.dev/og/blog/v0320-table-transfer-sql-snippets-plan-comparison.png" alt="v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons" width="120" />](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | [v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | 2026-11-09 13:12 |
-| [<img src="https://tabularis.dev/og/blog/zeny-partnership-fewer-bots.png" alt="Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord" width="120" />](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | [Tabularis × Zeny: Fewer Bots, More Possibilities for Our Discord](https://tabularis.dev/blog/zeny-partnership-fewer-bots) | 2026-11-07 12:00 |
 
-*Last updated: 2026-11-26 16:24 UTC*
+*Last updated: 2026-11-27 01:29 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
