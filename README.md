@@ -53,7 +53,7 @@ Andrea.setInfo({
 | [<img src="https://tabularis.dev/og/blog/v0330-open-data-files-ai-completion-read-only-connections.png" alt="v0.33.0: Open Data Files, AI Completion, and Read-Only Connections" width="120" />](https://tabularis.dev/blog/v0330-open-data-files-ai-completion-read-only-connections) | [v0.33.0: Open Data Files, AI Completion, and Read-Only Connections](https://tabularis.dev/blog/v0330-open-data-files-ai-completion-read-only-connections) | 2026-11-16 09:30 |
 | [<img src="https://tabularis.dev/og/blog/v0320-table-transfer-sql-snippets-plan-comparison.png" alt="v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons" width="120" />](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | [v0.32.0: Table Transfers, SQL Snippets, and Plan Comparisons](https://tabularis.dev/blog/v0320-table-transfer-sql-snippets-plan-comparison) | 2026-11-09 13:12 |
 
-*Last updated: 2026-11-27 16:09 UTC*
+*Last updated: 2026-11-28 01:05 UTC*
 <!-- BLOG-POSTS:END -->
 
 ----
